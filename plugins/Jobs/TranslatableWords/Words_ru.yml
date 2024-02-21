@@ -1,0 +1,598 @@
+ItemList:
+  447-BOAT_ACACIA: Акациевая лодка
+  430-ACACIA_DOOR_ITEM: Акациевая дверь
+  192-ACACIA_FENCE: Акациевый забор
+  187-ACACIA_FENCE_GATE: Акациевые ворота
+  161-LEAVES_2: Листва тёмного дуба
+  162-LOG_2: Древесина тёмного дуба
+  5-WOOD: Еловые доски
+  6-SAPLING: Еловый саженец
+  126-WOOD_STEP: Хвойная плита
+  163-ACACIA_STAIRS: Ступени из акации
+  157-ACTIVATOR_RAIL: Активирующие рельсы
+  0-AIR: Воздух
+  38-RED_ROSE: Белый тюльпан
+  1-STONE: Камень
+  145-ANVIL: Наковальня
+  260-APPLE: Яблоко
+  416-ARMOR_STAND: Стойка для брони
+  262-ARROW: Стрела
+  393-BAKED_POTATO: Печёный картофель
+  166-BARRIER: Барьер
+  383-MONSTER_EGG: Яйцо призыва зомби
+  138-BEACON: Маяк
+  7-BEDROCK: Коренная порода
+  363-RAW_BEEF: Сырая говядина
+  434-BEETROOT: Свёкла
+  207-BEETROOT_BLOCK: Семена свёклы
+  435-BEETROOT_SEEDS: Семена свёклы
+  436-BEETROOT_SOUP: Свекольный суп
+  445-BOAT_BIRCH: Берёзовая лодка
+  428-BIRCH_DOOR_ITEM: Берёзовая дверь
+  189-BIRCH_FENCE: Берёзовый забор
+  184-BIRCH_FENCE_GATE: Берёзовые ворота
+  18-LEAVES: Хвойная листва
+  17-LOG: Хвойная древесина
+  135-BIRCH_WOOD_STAIRS: Берёзовые ступени
+  425-BANNER: Флаг
+  355-BED: Кровать
+  171-CARPET: Жёлтый Ковёр
+  251-CONCRETE: Жёлтый бетон
+  252-CONCRETE_POWDER: Жёлтый цемент
+  250-BLACK_GLAZED_TERRACOTTA: Чёрная глазурованная керамика
+  234-BLACK_SHULKER_BOX: Чёрный шалкеровый ящик
+  95-STAINED_GLASS: Жёлтое окрашенное стекло
+  160-STAINED_GLASS_PANE: Жёлтая стеклянная панель
+  159-STAINED_CLAY: Жёлтая обожжённая глина
+  177-WALL_BANNER: Настенный флаг
+  35-WOOL: Жёлтая шерсть
+  377-BLAZE_POWDER: Огненный порошок
+  369-BLAZE_ROD: Огненный стержень
+  245-PURPLE_GLAZED_TERRACOTTA: Фиолетовая глазурованная керамика
+  246-BLUE_GLAZED_TERRACOTTA: Синяя глазурованная керамика
+  230-BLUE_SHULKER_BOX: Синий шалкеровый ящик
+  352-BONE: Кость
+  216-BONE_BLOCK: Костяной блок
+  351-INK_SACK: Красный краситель
+  340-BOOK: Книга
+  47-BOOKSHELF: Книжный шкаф
+  261-BOW: Лук
+  281-BOWL: Миска
+  297-BREAD: Хлеб
+  379-BREWING_STAND_ITEM: Варочная стойка
+  336-CLAY_BRICK: Кирпич
+  45-BRICK: Кирпичный блок
+  44-STEP: Каменная плита
+  108-BRICK_STAIRS: Кирпичные ступени
+  247-BROWN_GLAZED_TERRACOTTA: Коричневая глазурованная керамика
+  39-BROWN_MUSHROOM: Коричневый гриб
+  99-HUGE_MUSHROOM_1: Блок коричневого гриба
+  231-BROWN_SHULKER_BOX: Коричневый шалкеровый ящик
+  325-BUCKET: Ведро
+  81-CACTUS: Кактус
+  354-CAKE: Торт
+  391-CARROT_ITEM: Морковь
+  141-CARROT: Морковь
+  398-CARROT_STICK: Удочка с морковью
+  380-CAULDRON_ITEM: Котёл
+  305-CHAINMAIL_BOOTS: Кольчужные ботинки
+  303-CHAINMAIL_CHESTPLATE: Кольчужная кираса
+  302-CHAINMAIL_HELMET: Кольчужный шлем
+  304-CHAINMAIL_LEGGINGS: Кольчужные поножи
+  263-COAL: Уголь
+  54-CHEST: Сундук
+  342-STORAGE_MINECART: Вагонетка с сундуком
+  365-RAW_CHICKEN: Сырая курятина
+  155-QUARTZ_BLOCK: Кварцевый пилон
+  179-RED_SANDSTONE: Гладкий красный песчаник
+  24-SANDSTONE: Гладкий песчаник
+  98-SMOOTH_BRICK: Каменный кирпич
+  200-CHORUS_FLOWER: Цветок коруса
+  432-CHORUS_FRUIT: Плод коруса
+  199-CHORUS_PLANT: Растение коруса
+  82-CLAY: Глиняный блок
+  337-CLAY_BALL: Глина
+  347-WATCH: Часы
+  173-COAL_BLOCK: Угольный блок
+  16-COAL_ORE: Угольная руда
+  3-DIRT: Подзол
+  4-COBBLESTONE: Булыжник
+  67-COBBLESTONE_STAIRS: Булыжниковые ступени
+  139-COBBLE_WALL: Замшелая булыжниковая стена
+  30-WEB: Паутина
+  127-COCOA: Плод какао
+  137-COMMAND: Командный блок
+  422-COMMAND_MINECART: Вагонетка с командным блоком
+  404-REDSTONE_COMPARATOR: Компаратор
+  345-COMPASS: Компас
+  364-COOKED_BEEF: Жареная говядина
+  366-COOKED_CHICKEN: Жареная курятина
+  350-COOKED_FISH: Жареный лосось
+  424-COOKED_MUTTON: Жареная баранина
+  320-GRILLED_PORK: Жареная свинина
+  412-COOKED_RABBIT: Жареная крольчатина
+  357-COOKIE: Печенье
+  58-WORKBENCH: Верстак
+  397-SKULL_ITEM: Голова (Зомби)
+  144-SKULL: Голова
+  244-CYAN_GLAZED_TERRACOTTA: Бирюзовая глазурованная керамика
+  228-CYAN_SHULKER_BOX: Бирюзовый шалкеровый ящик
+  37-YELLOW_FLOWER: Одуванчик
+  448-BOAT_DARK_OAK: Лодка из тёмного дуба
+  431-DARK_OAK_DOOR_ITEM: Тёмнодубовая дверь
+  191-DARK_OAK_FENCE: Забор из тёмного дуба
+  186-DARK_OAK_FENCE_GATE: Ворота из тёмного дуба
+  164-DARK_OAK_STAIRS: Ступени из тёмного дуба
+  168-PRISMARINE: Призмариновый кирпич
+  151-DAYLIGHT_DETECTOR: Датчик дневного света
+  32-DEAD_BUSH: Сухой куст
+  28-DETECTOR_RAIL: Нажимные рельсы
+  264-DIAMOND: Алмаз
+  279-DIAMOND_AXE: Алмазный топор
+  57-DIAMOND_BLOCK: Алмазный блок
+  313-DIAMOND_BOOTS: Алмазные ботинки
+  311-DIAMOND_CHESTPLATE: Алмазная кираса
+  310-DIAMOND_HELMET: Алмазный шлем
+  293-DIAMOND_HOE: Алмазная мотыга
+  419-DIAMOND_BARDING: Алмазная конская броня
+  312-DIAMOND_LEGGINGS: Алмазные поножи
+  56-DIAMOND_ORE: Алмазная руда
+  278-DIAMOND_PICKAXE: Алмазная кирка
+  277-DIAMOND_SPADE: Алмазная лопата
+  276-DIAMOND_SWORD: Алмазный меч
+  23-DISPENSER: Раздатчик
+  437-DRAGONS_BREATH: Драконье дыхание
+  122-DRAGON_EGG: Яйцо дракона
+  158-DROPPER: Выбрасыватель
+  175-DOUBLE_PLANT: Подсолнечник
+  344-EGG: Яйцо
+  443-ELYTRA: Элитры
+  388-EMERALD: Изумруд
+  133-EMERALD_BLOCK: Изумрудный блок
+  129-EMERALD_ORE: Изумрудная руда
+  403-ENCHANTED_BOOK: Зачарованная книга
+  322-GOLDEN_APPLE: Золотое яблоко
+  116-ENCHANTMENT_TABLE: Стол зачаровывания
+  130-ENDER_CHEST: Сундук Края
+  381-EYE_OF_ENDER: Око Края
+  368-ENDER_PEARL: Жемчуг Края
+  426-END_CRYSTAL: Кристал Края
+  209-END_GATEWAY: Блок врат Края
+  119-ENDER_PORTAL: Блок портала Края
+  120-ENDER_PORTAL_FRAME: Рамка портала Края
+  198-END_ROD: Стержень Края
+  121-ENDER_STONE: Камень Края
+  206-END_BRICKS: Каменный кирпич Края
+  384-EXP_BOTTLE: Зелье опыта
+  60-SOIL: Грядка
+  288-FEATHER: Перо
+  376-FERMENTED_SPIDER_EYE: Приготовленный паучий глаз
+  31-LONG_GRASS: Высокая трава
+  358-MAP: Карта
+  51-FIRE: Огонь
+  401-FIREWORK: Ракета
+  402-FIREWORK_CHARGE: Звёздочка
+  385-FIREBALL: Огненный шар
+  346-FISHING_ROD: Удочка
+  318-FLINT: Кремень
+  259-FLINT_AND_STEEL: Огниво
+  390-FLOWER_POT_ITEM: Цветочный горшок
+  212-FROSTED_ICE: Подмороженный лёд
+  61-FURNACE: Печь
+  343-POWERED_MINECART: Вагонетка с печью
+  370-GHAST_TEAR: Слеза гаста
+  20-GLASS: Стекло
+  374-GLASS_BOTTLE: Колба
+  102-THIN_GLASS: Стеклянная панель
+  382-SPECKLED_MELON: Сверкающий ломтик арбуза
+  89-GLOWSTONE: Светокамень
+  348-GLOWSTONE_DUST: Светопыль
+  286-GOLD_AXE: Золотой топор
+  317-GOLD_BOOTS: Золотые ботинки
+  396-GOLDEN_CARROT: Золотая морковь
+  315-GOLD_CHESTPLATE: Золотая кираса
+  314-GOLD_HELMET: Золотой шлем
+  294-GOLD_HOE: Золотая мотыга
+  418-GOLD_BARDING: Золотая конская броня
+  316-GOLD_LEGGINGS: Золотые поножи
+  285-GOLD_PICKAXE: Золотая кирка
+  284-GOLD_SPADE: Золотая лопата
+  283-GOLD_SWORD: Золотой меч
+  41-GOLD_BLOCK: Золотой блок
+  266-GOLD_INGOT: Золотой слиток
+  371-GOLD_NUGGET: Золотой самородок
+  14-GOLD_ORE: Золотая руда
+  2-GRASS: Трава
+  208-GRASS_PATH: Травяная тропинка
+  13-GRAVEL: Гравий
+  242-GRAY_GLAZED_TERRACOTTA: Серая глазурованная керамика
+  226-GRAY_SHULKER_BOX: Серый шалкеровый ящик
+  248-GREEN_GLAZED_TERRACOTTA: Зелёная глазурованная керамика
+  232-GREEN_SHULKER_BOX: Зелёный шалкеровый ящик
+  289-SULPHUR: Порох
+  170-HAY_BLOCK: Сноп сена
+  148-IRON_PLATE: Утяжелённая нажимная пластина (Тяжёлая)
+  154-HOPPER: Загрузочная воронка
+  408-HOPPER_MINECART: Вагонетка с воронкой
+  79-ICE: Лёд
+  97-MONSTER_EGGS: Stone Brick Monster Egg
+  258-IRON_AXE: Железный топор
+  101-IRON_FENCE: Железная решётка
+  42-IRON_BLOCK: Железный блок
+  309-IRON_BOOTS: Железные ботинки
+  307-IRON_CHESTPLATE: Железная кираса
+  330-IRON_DOOR: Железная дверь
+  306-IRON_HELMET: Железный шлем
+  292-IRON_HOE: Железная мотыга
+  417-IRON_BARDING: Железная конская броня
+  265-IRON_INGOT: Железный слиток
+  308-IRON_LEGGINGS: Железные поножи
+  452-IRON_NUGGET: Iron Nugget
+  15-IRON_ORE: Железная руда
+  257-IRON_PICKAXE: Железная кирка
+  256-IRON_SPADE: Железная лопата
+  267-IRON_SWORD: Железный меч
+  167-IRON_TRAPDOOR: Железный люк
+  389-ITEM_FRAME: Рамка
+  91-JACK_O_LANTERN: Светильник Джека
+  84-JUKEBOX: Проигрыватель
+  446-BOAT_JUNGLE: Джунглевая лодка
+  429-JUNGLE_DOOR_ITEM: Дверь из тропического дерева
+  190-JUNGLE_FENCE: Джунглевый забор
+  185-JUNGLE_FENCE_GATE: Джунглевые ворота
+  43-DOUBLE_STEP: Двойная каменная плита
+  136-JUNGLE_WOOD_STAIRS: Ступени из дерева джунглей
+  453-KNOWLEDGE_BOOK: Knowledge Book
+  65-LADDER: Лестница
+  22-LAPIS_BLOCK: Лазуритовый блок
+  21-LAPIS_ORE: Лазуритовая руда
+  10-LAVA: Лава
+  327-LAVA_BUCKET: Ведро лавы
+  420-LEASH: Поводок
+  334-LEATHER: Кожа
+  301-LEATHER_BOOTS: Кожаные ботинки
+  299-LEATHER_CHESTPLATE: Кожаная кираса
+  298-LEATHER_HELMET: Кожаный шлем
+  300-LEATHER_LEGGINGS: Кожаные поножи
+  69-LEVER: Рычаг
+  238-LIGHT_BLUE_GLAZED_TERRACOTTA: Светло-синяя глазурованная керамика
+  222-LIGHT_BLUE_SHULKER_BOX: Светло-синий шалкеровый ящик
+  243-SILVER_GLAZED_TERRACOTTA: Светло-серая глазурованная керамика
+  227-SILVER_SHULKER_BOX: Светло-серый шалкеровый ящик
+  147-GOLD_PLATE: Утяжелённая нажимная пластина (Лёгкая)
+  111-WATER_LILY: Кувшинка
+  240-LIME_GLAZED_TERRACOTTA: Lime глазурованная керамика
+  224-LIME_SHULKER_BOX: Лаймовый шалкеровый ящик
+  441-LINGERING_POTION: Оседающее зелье
+  237-MAGENTA_GLAZED_TERRACOTTA: Сиреневая глазурованная керамика
+  221-MAGENTA_SHULKER_BOX: Сиреневый шалкеровый ящик
+  213-MAGMA: Магмовый блок
+  378-MAGMA_CREAM: Лавовый крем
+  395-EMPTY_MAP: Пустая карта
+  103-MELON_BLOCK: Арбуз
+  362-MELON_SEEDS: Семена арбуза
+  360-MELON: Ломтик арбуза
+  105-MELON_STEM: Melon Stem
+  335-MILK_BUCKET: Молоко
+  328-MINECART: Вагонетка
+  48-MOSSY_COBBLESTONE: Замшелый булыжник
+  36-PISTON_MOVING_PIECE: Piston Moving Piece
+  282-MUSHROOM_SOUP: Тушёные грибы
+  2266-RECORD_11: 11 Disc
+  2256-GOLD_RECORD: 13 Disc
+  2258-RECORD_3: Blocks Disc
+  2257-GREEN_RECORD: Cat Disc
+  2259-RECORD_4: Chirp Disc
+  2260-RECORD_5: Far Disc
+  2261-RECORD_6: Mall Disc
+  2262-RECORD_7: Mellohi Disc
+  2263-RECORD_8: Stal Disc
+  2264-RECORD_9: Strad Disc
+  2267-RECORD_12: Wait Disc
+  2265-RECORD_10: Ward Disc
+  423-MUTTON: Сырая баранина
+  110-MYCEL: Мицелий
+  421-NAME_TAG: Бирка
+  87-NETHERRACK: Адский камень
+  112-NETHER_BRICK: Блок адского кирпича
+  405-NETHER_BRICK_ITEM: Адский кирпич
+  113-NETHER_FENCE: Адский забор
+  114-NETHER_BRICK_STAIRS: Ступени из адского кирпича
+  90-PORTAL: Блок портала Нижнего мира
+  153-QUARTZ_ORE: Кварцевая руда Нижнего мира
+  399-NETHER_STAR: Звезда Нижнего мира
+  372-NETHER_STALK: Семена адского нароста
+  214-NETHER_WART_BLOCK: Блок адского нароста
+  25-NOTE_BLOCK: Музыкальный блок
+  333-BOAT: Дубовая лодка
+  143-WOOD_BUTTON: Деревянная кнопка
+  324-WOOD_DOOR: Деревянная дверь
+  85-FENCE: Забор
+  107-FENCE_GATE: Ворота
+  72-WOOD_PLATE: Деревянная нажимная пластина
+  53-WOOD_STAIRS: Дубовые ступени
+  96-TRAP_DOOR: Люк
+  218-OBSERVER: Наблюдатель
+  49-OBSIDIAN: Обсидиан
+  236-ORANGE_GLAZED_TERRACOTTA: Оранжевая глазурованная керамика
+  220-ORANGE_SHULKER_BOX: Оранжевый шалкеровый ящик
+  174-PACKED_ICE: Плотный лёд
+  321-PAINTING: Картина
+  339-PAPER: Бумага
+  241-PINK_GLAZED_TERRACOTTA: Розовая глазурованная керамика
+  225-PINK_SHULKER_BOX: Розовый шалкеровый ящик
+  33-PISTON_BASE: Поршень
+  34-PISTON_EXTENSION: Головка поршня
+  394-POISONOUS_POTATO: Ядовитый картофель
+  433-CHORUS_FRUIT_POPPED: Приготовленный плод коруса
+  319-PORK: Сырая свинина
+  392-POTATO_ITEM: Картофель
+  142-POTATO: Картофель
+  27-POWERED_RAIL: Электрические рельсы
+  410-PRISMARINE_CRYSTALS: Призмариновый кристалл
+  409-PRISMARINE_SHARD: Призмариновый осколок
+  349-RAW_FISH: Сырая рыба
+  86-PUMPKIN: Тыква
+  400-PUMPKIN_PIE: Тыквенный пирог
+  361-PUMPKIN_SEEDS: Семена тыквы
+  104-PUMPKIN_STEM: Pumpkin Stem
+  229-PURPLE_SHULKER_BOX: Шалкеровый ящик
+  201-PURPUR_BLOCK: Пурпурный блок
+  202-PURPUR_PILLAR: Пурпурный пилон
+  205-PURPUR_SLAB: Пурпурная плита
+  203-PURPUR_STAIRS: Пурпурные ступени
+  406-QUARTZ: Кварц Нижнего мира
+  156-QUARTZ_STAIRS: Кварцевые ступени
+  411-RABBIT: Сырая крольчатина
+  414-RABBIT_FOOT: Кроличья лапка
+  415-RABBIT_HIDE: Кроличья шкурка
+  413-RABBIT_STEW: Тушёный кролик
+  66-RAILS: Рельсы
+  331-REDSTONE: Красная пыль
+  152-REDSTONE_BLOCK: Блок красного камня
+  123-REDSTONE_LAMP_OFF: Лампа (выкл.)
+  73-REDSTONE_ORE: Красная руда
+  76-REDSTONE_TORCH_ON: Красный факел (вкл)
+  55-REDSTONE_WIRE: Красный провод
+  249-RED_GLAZED_TERRACOTTA: Красная глазурованная керамика
+  40-RED_MUSHROOM: Красный гриб
+  100-HUGE_MUSHROOM_2: Блок красного гриба
+  215-RED_NETHER_BRICK: Красный адский кирпич
+  12-SAND: Песок
+  182-STONE_SLAB2: Плита из красного песчаника
+  180-RED_SANDSTONE_STAIRS: Ступени из красного песчаника
+  233-RED_SHULKER_BOX: Красный шалкеровый ящик
+  356-DIODE: Красный повторитель
+  367-ROTTEN_FLESH: Гнилая плоть
+  329-SADDLE: Седло
+  128-SANDSTONE_STAIRS: Песчаниковые ступени
+  169-SEA_LANTERN: Морской фонарь
+  359-SHEARS: Ножницы
+  442-SHIELD: Щит
+  450-SHULKER_SHELL: Shulker Shell
+  323-SIGN: Табличка
+  341-SLIME_BALL: Слизь
+  165-SLIME_BLOCK: Блок слизи
+  78-SNOW: Снег
+  332-SNOW_BALL: Снежок
+  80-SNOW_BLOCK: Блок снега
+  88-SOUL_SAND: Песок душ
+  52-MOB_SPAWNER: Спаунер мобов
+  439-SPECTRAL_ARROW: Призрачная стрела
+  375-SPIDER_EYE: Паучий глаз
+  438-SPLASH_POTION: Взрывающееся зелье
+  19-SPONGE: Влажная губка
+  444-BOAT_SPRUCE: Еловая лодка
+  427-SPRUCE_DOOR_ITEM: Еловая дверь
+  188-SPRUCE_FENCE: Еловый забор
+  183-SPRUCE_FENCE_GATE: Еловые ворота
+  134-SPRUCE_WOOD_STAIRS: Еловые ступени
+  280-STICK: Палка
+  29-PISTON_STICKY_BASE: Липкий поршень
+  275-STONE_AXE: Каменный топор
+  109-SMOOTH_STAIRS: Каменнокирпичные ступени
+  77-STONE_BUTTON: Каменная кнопка
+  291-STONE_HOE: Каменная мотыга
+  274-STONE_PICKAXE: Каменная кирка
+  70-STONE_PLATE: Каменная нажимная пластина
+  273-STONE_SPADE: Каменная лопата
+  272-STONE_SWORD: Каменный меч
+  287-STRING: Нить
+  255-STRUCTURE_BLOCK: Structure Block
+  217-STRUCTURE_VOID: Structure Void
+  353-SUGAR: Сахар
+  338-SUGAR_CANE: Сахарный тростник
+  172-HARD_CLAY: Обожжённая глина
+  440-TIPPED_ARROW: Выпущенная стрела
+  46-TNT: ТНТ
+  407-EXPLOSIVE_MINECART: Вагонетка с ТНТ
+  50-TORCH: Факел
+  449-TOTEM: Totem Of Undying
+  146-TRAPPED_CHEST: Сундук-ловушка
+  132-TRIPWIRE: Растяжка
+  131-TRIPWIRE_HOOK: Натяжной датчик
+  106-VINE: Лианы
+  68-WALL_SIGN: Настенная табличка
+  8-WATER: Вода
+  326-WATER_BUCKET: Ведро воды
+  296-WHEAT: Пшеница
+  295-SEEDS: Семена пшеницы
+  235-WHITE_GLAZED_TERRACOTTA: Белая глазурованная керамика
+  219-WHITE_SHULKER_BOX: Белый шалкеровый ящик
+  271-WOOD_AXE: Деревянный топор
+  290-WOOD_HOE: Деревянная мотыга
+  270-WOOD_PICKAXE: Деревянная кирка
+  269-WOOD_SPADE: Деревянная лопата
+  268-WOOD_SWORD: Деревянный меч
+  386-BOOK_AND_QUILL: Book and Quill
+  387-WRITTEN_BOOK: Written Book
+  239-YELLOW_GLAZED_TERRACOTTA: Жёлтая глазурованная керамика
+  223-YELLOW_SHULKER_BOX: Жёлтый шалкеровый ящик
+  9-STATIONARY_WATER: Неподвижная вода
+  11-STATIONARY_LAVA: Неподвижная лава
+  62-BURNING_FURNACE: Горящая печь
+  115-NETHER_WARTS: Адский нарост
+  71-IRON_DOOR_BLOCK: Железная дверь
+  74-GLOWING_REDSTONE_ORE: Светящаяся красная руда
+  83-SUGAR_CANE_BLOCK: Сахарный тростник
+  63-SIGN_POST: Напольная табличка
+  26-BED_BLOCK: Кровать
+  75-REDSTONE_TORCH_OFF: Красный факел (выкл)
+  92-CAKE_BLOCK: Торт
+  93-DIODE_BLOCK_OFF: Красный повторитель (выкл)
+  94-DIODE_BLOCK_ON: Красный повторитель (вкл)
+  117-BREWING_STAND: Варочная стойка
+  149-REDSTONE_COMPARATOR_OFF: Компаратор (неактивный)
+  150-REDSTONE_COMPARATOR_ON: Компаратор (активный)
+  64-WOODEN_DOOR: Деревянная дверь
+  193-SPRUCE_DOOR: Еловая дверь
+  194-BIRCH_DOOR: Берёзовая дверь
+  195-JUNGLE_DOOR: Джунглевая дверь
+  196-ACACIA_DOOR: Дверь из акации
+  197-DARK_OAK_DOOR: Дверь из тёмного дуба
+  59-CROPS: Пшеница
+EntityList:
+  -1-PLAYER: Игрок
+  4-ELDER_GUARDIAN: Elder Guardian
+  5-WITHER_SKELETON: Wither Skeleton
+  6-STRAY: Stray
+  23-HUSK: Husk
+  27-ZOMBIE_VILLAGER: Zombie Villager
+  28-SKELETON_HORSE: Skeleton Horse
+  29-ZOMBIE_HORSE: Zombie Horse
+  30-ARMOR_STAND: Armor Stand
+  31-DONKEY: Donkey
+  32-MULE: Mule
+  34-EVOKER: Evoker
+  35-VEX: Vex
+  36-VINDICATOR: Vindicator
+  37-ILLUSIONER: Illusioner
+  50-CREEPER: Крипер
+  51-SKELETON: Скелет
+  52-SPIDER: Паук
+  53-GIANT: Гигант
+  54-ZOMBIE: Зомби
+  55-SLIME: Слизень
+  56-GHAST: Гаст
+  57-PIG_ZOMBIE: Зомби-свиночеловек
+  58-ENDERMAN: Странник Края
+  59-CAVE_SPIDER: Пещерный паук
+  60-SILVERFISH: Чешуйница
+  61-BLAZE: Ифрит
+  62-MAGMA_CUBE: Лавовый куб
+  63-ENDER_DRAGON: Дракон Края
+  64-WITHER: Иссушитель
+  65-BAT: Летучая мышь
+  66-WITCH: Ведьма
+  67-ENDERMITE: Чешуйница Края
+  68-GUARDIAN: Страж
+  69-SHULKER: Шалкер
+  90-PIG: Свинья
+  91-SHEEP: Овца
+  92-COW: Корова
+  93-CHICKEN: Курица
+  94-SQUID: Спрут
+  95-WOLF: Волк
+  96-MUSHROOM_COW: Грибная корова
+  97-SNOWMAN: Снежный голем
+  98-OCELOT: Оцелот
+  99-IRON_GOLEM: Железный голем
+  100-HORSE: Лошадь
+  101-RABBIT: Кролик
+  102-POLAR_BEAR: Белый медведь
+  103-LLAMA: Llama
+  105-PARROT: Parrot
+  120-VILLAGER: Деревенский житель
+EnchantList:
+  PROTECTION_ENVIRONMENTAL: Защита
+  PROTECTION_FIRE: Огнеупорность
+  PROTECTION_FALL: Невесомость
+  PROTECTION_EXPLOSIONS: Взрывоустойчивость
+  PROTECTION_PROJECTILE: Protection projectile
+  OXYGEN: Подводное дыхание
+  WATER_WORKER: Water worker
+  MENDING: Починка
+  THORNS: Шипы
+  VANISHING_CURSE: Vanishing curse
+  DEPTH_STRIDER: Подводная ходьба
+  FROST_WALKER: Ледяная Поступь
+  BINDING_CURSE: Binding curse
+  DAMAGE_ALL: Острота
+  DAMAGE_UNDEAD: Небесная кара
+  DAMAGE_ARTHROPODS: Бич членистоногих
+  KNOCKBACK: Отдача
+  FIRE_ASPECT: Заговор огня
+  LOOT_BONUS_MOBS: Добыча
+  SWEEPING_EDGE: Разящий клинок
+  DIG_SPEED: Подводник
+  SILK_TOUCH: Шёлковое касание
+  DURABILITY: Прочность
+  LOOT_BONUS_BLOCKS: Удача
+  ARROW_DAMAGE: Сила
+  ARROW_KNOCKBACK: Откидывание
+  ARROW_FIRE: Горящая стрела
+  ARROW_INFINITE: Бесконечность
+  LUCK: Везучий рыбак
+  LURE: Приманка
+ColorList:
+  0-white: '&fWhite'
+  1-orange: '&6Orange'
+  2-magenta: '&dMagenta'
+  3-navy: '&9Navy'
+  4-yellow: '&eYellow'
+  5-lime: '&aLime'
+  6-pink: '&dPink'
+  7-gray: '&8Gray'
+  8-silver: '&7Silver'
+  9-cyan: '&3Cyan'
+  10-purple: '&5Purple'
+  11-blue: '&1Blue'
+  12-brown: '&4Brown'
+  13-green: '&2Green'
+  14-red: '&cRed'
+  15-black: '&0Black'
+PotionNamesList:
+  16-Awkward: Awkard Potion
+  8195-Fire_Resistance_1: Fire Resistance Potion
+  8259-Fire_Resistance_2: Fire Resistance potion 2
+  8204-Harming_1: Harming Potion
+  8236-Harming_2: Harming Potion 2
+  8197-Healing_1: Healing Potion
+  8229-Healing_2: Healing Potion 2
+  8206-Invisibility_1: Invisibility Potion
+  8270-Invisibility_2: Invisibility Potion 2
+  8267-Leaping_1: Leaping Potion
+  8235-Leaping_2: Leaping Potion 2
+  -1-Luck: Luck Potion
+  64-Mundane: Mundane Potion
+  8198-Night_Vision_1: Night Vision Potion
+  8262-Night_Vision_2: Night Vision Potion 2
+  8196-Poison_1: Poison Potion
+  8228-Poison_2: Poison Potion 2
+  8260-Poison_3: Poison Potion 3
+  8292-Poison_4: Poison Potion 4
+  8193-Regeneration_1: Regeneration Potion
+  8225-Regeneration_2: Regeneration Potion 2
+  8257-Regeneration_3: Regeneration Potion 3
+  8289-Regeneration_4: Regeneration Potion 4
+  -1-Slow_Falling_1: Slow Falling Potion
+  -1-Slow_Falling_2: Slow Falling Potion 2
+  8202-Slowness_1: Slowness Potion
+  8266-Slowness_2: Slowness Potion 2
+  8201-Strength_1: Strength Potion
+  8233-Strength_2: Strength Potion 2
+  8265-Strength_3: Strength Potion 3
+  8297-Strength_4: Strength Potion 4
+  8194-Swiftness_1: Swiftness Potion
+  8226-Swiftness_2: Swiftness Potion 2
+  8258-Swiftness_3: Swiftness Potion 3
+  8290-Swiftness_4: Swiftness Potion 4
+  32-Thick: Thick Potion
+  -1-Turtle_Master_1: Turtle Master Potion
+  -1-Turtle_Master_2: Turtle Master Potion 2
+  -1-Turtle_Master_3: Turtle Master Potion 3
+  8205-Water_Breathing_1: Water Breathing Potion
+  8269-Water_Breathing_2: Water Breathing Potion 2
+  8200-Weakness_1: Weakness Potion
+  8264-Weakness_2: Weakness Potion 2
+  0-Water: Water Potion

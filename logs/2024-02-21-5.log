@@ -1,0 +1,45 @@
+[16:29:11] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:29:11] [Server thread/INFO]: Loading properties
+[16:29:11] [Server console handler/ERROR]: [TerminalConsole] Failed to read console input
+java.io.IOException: Неверный дескриптор
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_351]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_351]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_351]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_351]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_351]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_351]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_351]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_351]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_351]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_351]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_351]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:179) ~[spigot.jar:git-Paper-1562]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:142) ~[spigot.jar:git-Paper-1562]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:77) ~[spigot.jar:git-Paper-1562]
+	Suppressed: java.io.IOException: Неверный дескриптор
+		at java.io.FileInputStream.close0(Native Method) ~[?:1.8.0_351]
+		at java.io.FileInputStream.access$000(Unknown Source) ~[?:1.8.0_351]
+		at java.io.FileInputStream$1.close(Unknown Source) ~[?:1.8.0_351]
+		at java.io.FileDescriptor.closeAll(Unknown Source) ~[?:1.8.0_351]
+		at java.io.FileInputStream.close(Unknown Source) ~[?:1.8.0_351]
+		at java.io.BufferedInputStream.close(Unknown Source) ~[?:1.8.0_351]
+		at sun.nio.cs.StreamDecoder.implClose(Unknown Source) ~[?:1.8.0_351]
+		at sun.nio.cs.StreamDecoder.close(Unknown Source) ~[?:1.8.0_351]
+		at java.io.InputStreamReader.close(Unknown Source) ~[?:1.8.0_351]
+		at java.io.BufferedReader.close(Unknown Source) ~[?:1.8.0_351]
+		at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:182) ~[spigot.jar:git-Paper-1562]
+		at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:142) ~[spigot.jar:git-Paper-1562]
+		at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:77) ~[spigot.jar:git-Paper-1562]
+[16:29:11] [Server thread/INFO]: Default game type: SURVIVAL
+[16:29:12] [Server thread/INFO]: This server is running Paper version git-Paper-1562 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[16:29:12] [Server thread/INFO]: Debug logging is disabled
+[16:29:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:29:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:29:12] [Server thread/INFO]: Generating keypair
+[16:29:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:29:12] [Server thread/INFO]: Using default channel type
+[16:29:12] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[16:29:12] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[16:29:12] [Server thread/WARN]: Perhaps a server is already running on that port?
+[16:29:12] [Server thread/INFO]: Stopping server
+[16:29:12] [Server thread/INFO]: Saving players

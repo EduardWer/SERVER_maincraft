@@ -1,0 +1,386 @@
+mob-arena-drops-enabled: false
+percent-needed:
+  enabled: false
+  percent: 10
+BAT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+BLAZE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+CAVE_SPIDER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+CHICKEN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+COW:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+CREEPER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+DONKEY:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+ELDER_GUARDIAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+ENDER_DRAGON:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+ENDERMAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+ENDERMITE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+EVOKER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+GHAST:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+GIANT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+GUARDIAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+HORSE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+HUSK:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+IRON_GOLEM:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+KILLER_RABBIT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+LLAMA:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+MAGMA_CUBE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+MULE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+MUSHROOM_COW:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+OCELOT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+PARROT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+PIG:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+PIG_ZOMBIE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+PLAYER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+  take-money-from-dead:
+    enabled: true
+    percent:
+      enabled: false
+      percent: 10
+  drop-money-if-killer-not-player: false
+POLAR_BEAR:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+RABBIT:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SHEARED_MUSHROOM:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SHEEP:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SHULKER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SILVERFISH:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SKELETON:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SLIME:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SNOWMAN:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SPIDER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+SQUID:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+STRAY:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+VEX:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+VILLAGER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+VINDICATOR:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+WITCH:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+WITHER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+WITHER_SKELETON:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+WOLF:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+ZOMBIE:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+ZOMBIE_VILLAGER:
+  enabled: true
+  chance: 100
+  drop:
+    min: 10
+    max: 20
+spawn-reasons:
+  NATURAL:
+    enabled: true
+    chance: 100
+  JOCKEY:
+    enabled: true
+    chance: 100
+  CHUNK_GEN:
+    enabled: true
+    chance: 100
+  SPAWNER:
+    enabled: true
+    chance: 100
+  EGG:
+    enabled: true
+    chance: 100
+  SPAWNER_EGG:
+    enabled: true
+    chance: 100
+  LIGHTNING:
+    enabled: true
+    chance: 100
+  BUILD_SNOWMAN:
+    enabled: true
+    chance: 100
+  BUILD_IRONGOLEM:
+    enabled: true
+    chance: 100
+  BUILD_WITHER:
+    enabled: true
+    chance: 100
+  VILLAGE_DEFENSE:
+    enabled: true
+    chance: 100
+  VILLAGE_INVASION:
+    enabled: true
+    chance: 100
+  BREEDING:
+    enabled: true
+    chance: 100
+  SLIME_SPLIT:
+    enabled: true
+    chance: 100
+  REINFORCEMENTS:
+    enabled: true
+    chance: 100
+  NETHER_PORTAL:
+    enabled: true
+    chance: 100
+  DISPENSE_EGG:
+    enabled: true
+    chance: 100
+  INFECTION:
+    enabled: true
+    chance: 100
+  CURED:
+    enabled: true
+    chance: 100
+  OCELOT_BABY:
+    enabled: true
+    chance: 100
+  SILVERFISH_BLOCK:
+    enabled: true
+    chance: 100
+  MOUNT:
+    enabled: true
+    chance: 100
+  TRAP:
+    enabled: true
+    chance: 100
+  ENDER_PEARL:
+    enabled: true
+    chance: 100
+  SHOULDER_ENTITY:
+    enabled: true
+    chance: 100
+  CUSTOM:
+    enabled: true
+    chance: 100
+  DEFAULT:
+    enabled: true
+    chance: 100

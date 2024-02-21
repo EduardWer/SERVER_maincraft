@@ -1,0 +1,598 @@
+ItemList:
+  447-BOAT_ACACIA: Acacia Boat
+  430-ACACIA_DOOR_ITEM: 金合欢木门
+  192-ACACIA_FENCE: 金合欢栅栏
+  187-ACACIA_FENCE_GATE: 金合欢栅栏门
+  161-LEAVES_2: 深色橡木树叶
+  162-LOG_2: 深色橡木
+  5-WOOD: 云杉木板
+  6-SAPLING: 云杉树苗
+  126-WOOD_STEP: 云杉台阶
+  163-ACACIA_STAIRS: 金合欢楼梯
+  157-ACTIVATOR_RAIL: 激活铁轨
+  0-AIR: 空气
+  38-RED_ROSE: 白色郁金香
+  1-STONE: 石头
+  145-ANVIL: 铁砧
+  260-APPLE: 苹果
+  416-ARMOR_STAND: 盔甲架
+  262-ARROW: 箭
+  393-BAKED_POTATO: 烤马铃薯
+  166-BARRIER: 屏障
+  383-MONSTER_EGG: 生成僵尸
+  138-BEACON: 信标
+  7-BEDROCK: 基岩
+  363-RAW_BEEF: 生牛肉
+  434-BEETROOT: 甜菜根
+  207-BEETROOT_BLOCK: 甜菜种子
+  435-BEETROOT_SEEDS: 甜菜种子
+  436-BEETROOT_SOUP: 甜菜汤
+  445-BOAT_BIRCH: Birch Boat
+  428-BIRCH_DOOR_ITEM: 白桦木门
+  189-BIRCH_FENCE: 白桦木栅栏
+  184-BIRCH_FENCE_GATE: 白桦木栅栏门
+  18-LEAVES: 云杉树叶
+  17-LOG: 云杉木
+  135-BIRCH_WOOD_STAIRS: 桦木楼梯
+  425-BANNER: 旗帜
+  355-BED: 床
+  171-CARPET: 黄色地毯
+  251-CONCRETE: Black Concrete
+  252-CONCRETE_POWDER: Black Concrete Powder
+  250-BLACK_GLAZED_TERRACOTTA: Black Glazed Terracotta
+  234-BLACK_SHULKER_BOX: Black Shulker Box
+  95-STAINED_GLASS: 黄色染色玻璃
+  160-STAINED_GLASS_PANE: 黄色染色玻璃板
+  159-STAINED_CLAY: 黄色黏土
+  177-WALL_BANNER: 墙上的旗帜
+  35-WOOL: 黄色羊毛
+  377-BLAZE_POWDER: 烈焰粉
+  369-BLAZE_ROD: 烈焰棒
+  245-PURPLE_GLAZED_TERRACOTTA: Blue Banner
+  246-BLUE_GLAZED_TERRACOTTA: Blue Glazed Terracotta
+  230-BLUE_SHULKER_BOX: Blue Shulker Box
+  352-BONE: 骨头
+  216-BONE_BLOCK: Bone Block
+  351-INK_SACK: 玫瑰红
+  340-BOOK: 书
+  47-BOOKSHELF: 书架
+  261-BOW: 弓
+  281-BOWL: 碗
+  297-BREAD: 面包
+  379-BREWING_STAND_ITEM: 酿造台
+  336-CLAY_BRICK: 红砖
+  45-BRICK: 砖块
+  44-STEP: 石台阶
+  108-BRICK_STAIRS: 砖块楼梯
+  247-BROWN_GLAZED_TERRACOTTA: Brown Glazed Terracotta
+  39-BROWN_MUSHROOM: 蘑菇
+  99-HUGE_MUSHROOM_1: 棕色巨型蘑菇
+  231-BROWN_SHULKER_BOX: Brown Shulker Box
+  325-BUCKET: 桶
+  81-CACTUS: 仙人掌
+  354-CAKE: 蛋糕
+  391-CARROT_ITEM: 胡萝卜
+  141-CARROT: 胡萝卜
+  398-CARROT_STICK: 胡萝卜钓竿
+  380-CAULDRON_ITEM: 炼药锅
+  305-CHAINMAIL_BOOTS: 锁链靴子
+  303-CHAINMAIL_CHESTPLATE: 锁链胸甲
+  302-CHAINMAIL_HELMET: 锁链头盔
+  304-CHAINMAIL_LEGGINGS: 锁链护腿
+  263-COAL: 煤炭
+  54-CHEST: 箱子
+  342-STORAGE_MINECART: 运输矿车
+  365-RAW_CHICKEN: 生鸡肉
+  155-QUARTZ_BLOCK: 竖纹石英块
+  179-RED_SANDSTONE: 平滑红砂岩
+  24-SANDSTONE: 平滑砂石
+  98-SMOOTH_BRICK: 石砖
+  200-CHORUS_FLOWER: 紫颂花
+  432-CHORUS_FRUIT: 紫颂果
+  199-CHORUS_PLANT: 紫颂植物
+  82-CLAY: 粘土
+  337-CLAY_BALL: 黏土
+  347-WATCH: 钟表
+  173-COAL_BLOCK: 煤炭块
+  16-COAL_ORE: 煤矿石
+  3-DIRT: 灰化土
+  4-COBBLESTONE: 圆石
+  67-COBBLESTONE_STAIRS: 圆石楼梯
+  139-COBBLE_WALL: 苔石墙
+  30-WEB: 蜘蛛网
+  127-COCOA: 可可果
+  137-COMMAND: 命令方块
+  422-COMMAND_MINECART: 命令方块矿车
+  404-REDSTONE_COMPARATOR: 红石比较器
+  345-COMPASS: 指南针
+  364-COOKED_BEEF: 牛排
+  366-COOKED_CHICKEN: 熟鸡肉
+  350-COOKED_FISH: 熟蛙鱼
+  424-COOKED_MUTTON: 熟羊肉
+  320-GRILLED_PORK: 熟猪排
+  412-COOKED_RABBIT: 熟兔肉
+  357-COOKIE: 曲奇
+  58-WORKBENCH: 工作台
+  397-SKULL_ITEM: 僵尸头颅
+  144-SKULL: 生物头颅
+  244-CYAN_GLAZED_TERRACOTTA: Cyan Glazed Terracotta
+  228-CYAN_SHULKER_BOX: Cyan Shulker Box
+  37-YELLOW_FLOWER: 蒲公英
+  448-BOAT_DARK_OAK: Dark Oak Boat
+  431-DARK_OAK_DOOR_ITEM: 深色橡木门
+  191-DARK_OAK_FENCE: 深色橡木栅栏
+  186-DARK_OAK_FENCE_GATE: 深色橡木栅栏门
+  164-DARK_OAK_STAIRS: 深色橡木楼梯
+  168-PRISMARINE: 海晶石砖
+  151-DAYLIGHT_DETECTOR: 阳光传感器
+  32-DEAD_BUSH: 枯死的灌木
+  28-DETECTOR_RAIL: 探测铁轨
+  264-DIAMOND: 钻石
+  279-DIAMOND_AXE: 钻石斧
+  57-DIAMOND_BLOCK: 钻石块
+  313-DIAMOND_BOOTS: 钻石靴子
+  311-DIAMOND_CHESTPLATE: 钻石胸甲
+  310-DIAMOND_HELMET: 钻石头盔
+  293-DIAMOND_HOE: 钻石锄
+  419-DIAMOND_BARDING: 钻石马凯
+  312-DIAMOND_LEGGINGS: 钻石护腿
+  56-DIAMOND_ORE: 钻石矿石
+  278-DIAMOND_PICKAXE: 钻石搞
+  277-DIAMOND_SPADE: 钻石锹
+  276-DIAMOND_SWORD: 钻石剑
+  23-DISPENSER: 发射器
+  437-DRAGONS_BREATH: 龙息
+  122-DRAGON_EGG: 龙蛋
+  158-DROPPER: 投掷器
+  175-DOUBLE_PLANT: 向日葵
+  344-EGG: 鸡蛋
+  443-ELYTRA: 鞘翅
+  388-EMERALD: 绿宝石
+  133-EMERALD_BLOCK: 绿宝石块
+  129-EMERALD_ORE: 绿宝石矿石
+  403-ENCHANTED_BOOK: 附魔书
+  322-GOLDEN_APPLE: 金苹果
+  116-ENCHANTMENT_TABLE: 附魔台
+  130-ENDER_CHEST: 末影箱
+  381-EYE_OF_ENDER: 末影之眼
+  368-ENDER_PEARL: 末影珍珠
+  426-END_CRYSTAL: 末影水晶
+  209-END_GATEWAY: 末地折跃门方块
+  119-ENDER_PORTAL: 末地传送门方块
+  120-ENDER_PORTAL_FRAME: 末地传送门框架
+  198-END_ROD: 末地烛
+  121-ENDER_STONE: 末地石
+  206-END_BRICKS: 末地石砖
+  384-EXP_BOTTLE: 附魔之瓶
+  60-SOIL: 耕地
+  288-FEATHER: 羽毛
+  376-FERMENTED_SPIDER_EYE: 发酵蜘蛛眼
+  31-LONG_GRASS: 草
+  358-MAP: 地图
+  51-FIRE: 火
+  401-FIREWORK: 烟花
+  402-FIREWORK_CHARGE: 烟火之星
+  385-FIREBALL: 火焰弹
+  346-FISHING_ROD: 鱼竿
+  318-FLINT: 燧石
+  259-FLINT_AND_STEEL: 打火石
+  390-FLOWER_POT_ITEM: 花盆
+  212-FROSTED_ICE: 霜冰
+  61-FURNACE: 熔炉
+  343-POWERED_MINECART: 动力矿车
+  370-GHAST_TEAR: 恶魂之泪
+  20-GLASS: 玻璃
+  374-GLASS_BOTTLE: 玻璃瓶
+  102-THIN_GLASS: 玻璃板
+  382-SPECKLED_MELON: 闪烁的西瓜
+  89-GLOWSTONE: 萤石
+  348-GLOWSTONE_DUST: 萤石粉
+  286-GOLD_AXE: 金斧
+  317-GOLD_BOOTS: 金靴子
+  396-GOLDEN_CARROT: 金胡萝卜
+  315-GOLD_CHESTPLATE: 金胸甲
+  314-GOLD_HELMET: 金头盔
+  294-GOLD_HOE: 金锄
+  418-GOLD_BARDING: 金马凯
+  316-GOLD_LEGGINGS: 金护腿
+  285-GOLD_PICKAXE: 金搞
+  284-GOLD_SPADE: 金锹
+  283-GOLD_SWORD: 金剑
+  41-GOLD_BLOCK: 金块
+  266-GOLD_INGOT: 金锭
+  371-GOLD_NUGGET: 金粒
+  14-GOLD_ORE: 金矿石
+  2-GRASS: 草方块
+  208-GRASS_PATH: 草径
+  13-GRAVEL: 砂砾
+  242-GRAY_GLAZED_TERRACOTTA: Gray Glazed Terracotta
+  226-GRAY_SHULKER_BOX: Gray Shulker Box
+  248-GREEN_GLAZED_TERRACOTTA: Green Glazed Terracotta
+  232-GREEN_SHULKER_BOX: Green Shulker Box
+  289-SULPHUR: 火药
+  170-HAY_BLOCK: 干草块
+  148-IRON_PLATE: 重质测重压力板
+  154-HOPPER: 漏斗
+  408-HOPPER_MINECART: 漏斗矿车
+  79-ICE: 冰
+  97-MONSTER_EGGS: 怪物蛋
+  258-IRON_AXE: 铁斧
+  101-IRON_FENCE: 铁栏杆
+  42-IRON_BLOCK: 铁块
+  309-IRON_BOOTS: 铁靴子
+  307-IRON_CHESTPLATE: 铁胸甲
+  330-IRON_DOOR: 铁门
+  306-IRON_HELMET: 铁头盔
+  292-IRON_HOE: 铁锄
+  417-IRON_BARDING: 铁马凯
+  265-IRON_INGOT: 铁锭
+  308-IRON_LEGGINGS: 铁护腿
+  452-IRON_NUGGET: Iron Nugget
+  15-IRON_ORE: 铁矿石
+  257-IRON_PICKAXE: 铁镐
+  256-IRON_SPADE: 铁锹
+  267-IRON_SWORD: 铁剑
+  167-IRON_TRAPDOOR: 铁活板门
+  389-ITEM_FRAME: 物品展示框
+  91-JACK_O_LANTERN: 南瓜灯
+  84-JUKEBOX: 唱片机
+  446-BOAT_JUNGLE: Jungle Boat
+  429-JUNGLE_DOOR_ITEM: 丛林木门
+  190-JUNGLE_FENCE: 丛林木栅栏
+  185-JUNGLE_FENCE_GATE: 丛林木栅栏门
+  43-DOUBLE_STEP: 双石台阶
+  136-JUNGLE_WOOD_STAIRS: 丛林楼梯
+  453-KNOWLEDGE_BOOK: Knowledge Book
+  65-LADDER: 梯子
+  22-LAPIS_BLOCK: 青金石块
+  21-LAPIS_ORE: 青金石矿石
+  10-LAVA: 岩浆
+  327-LAVA_BUCKET: 熔浆桶
+  420-LEASH: 拴绳
+  334-LEATHER: 皮革
+  301-LEATHER_BOOTS: 皮革靴子
+  299-LEATHER_CHESTPLATE: 皮革外套
+  298-LEATHER_HELMET: 皮革帽子
+  300-LEATHER_LEGGINGS: 皮革裤子
+  69-LEVER: 拉杆
+  238-LIGHT_BLUE_GLAZED_TERRACOTTA: Light Blue Glazed Terracotta
+  222-LIGHT_BLUE_SHULKER_BOX: Light Blue Shulker Box
+  243-SILVER_GLAZED_TERRACOTTA: Light Gray Glazed Terracotta
+  227-SILVER_SHULKER_BOX: Light Gray Shulker Box
+  147-GOLD_PLATE: 轻质测重压力板
+  111-WATER_LILY: 睡莲
+  240-LIME_GLAZED_TERRACOTTA: Lime Glazed Terracotta
+  224-LIME_SHULKER_BOX: Lime Shulker Box
+  441-LINGERING_POTION: 滞留型水瓶
+  237-MAGENTA_GLAZED_TERRACOTTA: Magenta Glazed Terracotta
+  221-MAGENTA_SHULKER_BOX: Magenta Shulker Box
+  213-MAGMA: Magma Block
+  378-MAGMA_CREAM: 岩浆膏
+  395-EMPTY_MAP: 空地图
+  103-MELON_BLOCK: 西瓜片
+  362-MELON_SEEDS: 西瓜种子
+  360-MELON: 西瓜
+  105-MELON_STEM: 西瓜梗
+  335-MILK_BUCKET: 牛奶
+  328-MINECART: 矿车
+  48-MOSSY_COBBLESTONE: 苔石
+  36-PISTON_MOVING_PIECE: Piston Moving Piece
+  282-MUSHROOM_SOUP: 蘑菇堡
+  2266-RECORD_11: 11 唱片
+  2256-GOLD_RECORD: 13 唱片
+  2258-RECORD_3: Blocks 唱片
+  2257-GREEN_RECORD: Cat 唱片
+  2259-RECORD_4: Chirp 唱片
+  2260-RECORD_5: Far 唱片
+  2261-RECORD_6: Mall 唱片
+  2262-RECORD_7: Mellohi 唱片
+  2263-RECORD_8: Stal 唱片
+  2264-RECORD_9: Strad 唱片
+  2267-RECORD_12: Wait 唱片
+  2265-RECORD_10: Ward 唱片
+  423-MUTTON: 生羊肉
+  110-MYCEL: 菌丝
+  421-NAME_TAG: 命名牌
+  87-NETHERRACK: 地狱岩
+  112-NETHER_BRICK: 地狱砖块
+  405-NETHER_BRICK_ITEM: 地狱砖
+  113-NETHER_FENCE: 地狱砖栅栏
+  114-NETHER_BRICK_STAIRS: 地狱砖楼梯
+  90-PORTAL: 下界传送门
+  153-QUARTZ_ORE: 下界石英矿石
+  399-NETHER_STAR: 下界之星
+  372-NETHER_STALK: 地狱疣
+  214-NETHER_WART_BLOCK: Nether Wart Block
+  25-NOTE_BLOCK: 音符盒
+  333-BOAT: 橡木船
+  143-WOOD_BUTTON: 木质按钮
+  324-WOOD_DOOR: 橡木门
+  85-FENCE: 栅栏
+  107-FENCE_GATE: 栅栏门
+  72-WOOD_PLATE: 木质压力板
+  53-WOOD_STAIRS: 橡木楼梯
+  96-TRAP_DOOR: 活板门
+  218-OBSERVER: Observer
+  49-OBSIDIAN: 黑曜石
+  236-ORANGE_GLAZED_TERRACOTTA: Orange Glazed Terracotta
+  220-ORANGE_SHULKER_BOX: Orange Shulker Box
+  174-PACKED_ICE: 浮冰
+  321-PAINTING: 画
+  339-PAPER: 纸
+  241-PINK_GLAZED_TERRACOTTA: Pink Glazed Terracotta
+  225-PINK_SHULKER_BOX: Pink Shulker Box
+  33-PISTON_BASE: 活塞
+  34-PISTON_EXTENSION: 活塞臂
+  394-POISONOUS_POTATO: 毒马铃薯
+  433-CHORUS_FRUIT_POPPED: 爆裂紫颂果
+  319-PORK: 生猪排
+  392-POTATO_ITEM: 马铃薯
+  142-POTATO: 马铃薯
+  27-POWERED_RAIL: 充能铁轨
+  410-PRISMARINE_CRYSTALS: 海晶砂砾
+  409-PRISMARINE_SHARD: 海晶碎片
+  349-RAW_FISH: 生鱼
+  86-PUMPKIN: 南瓜
+  400-PUMPKIN_PIE: 南瓜派
+  361-PUMPKIN_SEEDS: 南瓜种子
+  104-PUMPKIN_STEM: 南瓜梗
+  229-PURPLE_SHULKER_BOX: Purple Shulker Box
+  201-PURPUR_BLOCK: 紫珀块
+  202-PURPUR_PILLAR: 竖纹紫珀块
+  205-PURPUR_SLAB: 紫珀块台阶
+  203-PURPUR_STAIRS: 紫珀块楼梯
+  406-QUARTZ: 下界石英
+  156-QUARTZ_STAIRS: 石英楼梯
+  411-RABBIT: 生兔肉
+  414-RABBIT_FOOT: 兔子脚
+  415-RABBIT_HIDE: 兔子皮
+  413-RABBIT_STEW: 兔肉堡
+  66-RAILS: 铁轨
+  331-REDSTONE: 红石
+  152-REDSTONE_BLOCK: 红石块
+  123-REDSTONE_LAMP_OFF: 红石灯(未开启)
+  73-REDSTONE_ORE: 红石矿石
+  76-REDSTONE_TORCH_ON: 红石火把(已开启)
+  55-REDSTONE_WIRE: 红石线
+  249-RED_GLAZED_TERRACOTTA: Red Glazed Terracotta
+  40-RED_MUSHROOM: 红蘑菇
+  100-HUGE_MUSHROOM_2: 红色巨型蘑菇
+  215-RED_NETHER_BRICK: Red Nether Bricks
+  12-SAND: 沙子
+  182-STONE_SLAB2: 红砂岩台阶
+  180-RED_SANDSTONE_STAIRS: 红砂岩楼梯
+  233-RED_SHULKER_BOX: Red Shulker Box
+  356-DIODE: 红石中继器
+  367-ROTTEN_FLESH: 腐肉
+  329-SADDLE: 鞍
+  128-SANDSTONE_STAIRS: 砂岩楼梯
+  169-SEA_LANTERN: 海晶灯
+  359-SHEARS: 剪刀
+  442-SHIELD: 盾牌
+  450-SHULKER_SHELL: Shulker Shell
+  323-SIGN: 告示牌
+  341-SLIME_BALL: 粘液球
+  165-SLIME_BLOCK: 粘液块
+  78-SNOW: 雪
+  332-SNOW_BALL: 雪球
+  80-SNOW_BLOCK: 雪块
+  88-SOUL_SAND: 灵魂沙
+  52-MOB_SPAWNER: 刷怪箱
+  439-SPECTRAL_ARROW: 光灵箭
+  375-SPIDER_EYE: 蜘蛛眼
+  438-SPLASH_POTION: Splash Potion
+  19-SPONGE: 湿海绵
+  444-BOAT_SPRUCE: Spruce Boat
+  427-SPRUCE_DOOR_ITEM: 云杉木门
+  188-SPRUCE_FENCE: 云杉木栅栏
+  183-SPRUCE_FENCE_GATE: 云杉木栅栏门
+  134-SPRUCE_WOOD_STAIRS: 云杉楼梯
+  280-STICK: 木棍
+  29-PISTON_STICKY_BASE: 粘性活塞
+  275-STONE_AXE: 石斧
+  109-SMOOTH_STAIRS: 石砖楼梯
+  77-STONE_BUTTON: 石质按钮
+  291-STONE_HOE: 石锄
+  274-STONE_PICKAXE: 石镐
+  70-STONE_PLATE: 石质压力板
+  273-STONE_SPADE: 石锹
+  272-STONE_SWORD: 石剑
+  287-STRING: 线
+  255-STRUCTURE_BLOCK: Structure Block
+  217-STRUCTURE_VOID: Structure Void
+  353-SUGAR: 糖
+  338-SUGAR_CANE: 甘蔗
+  172-HARD_CLAY: 硬化粘土
+  440-TIPPED_ARROW: 夜视之箭
+  46-TNT: TNT
+  407-EXPLOSIVE_MINECART: TNT矿车
+  50-TORCH: 火把
+  449-TOTEM: Totem Of Undying
+  146-TRAPPED_CHEST: 陷阱箱
+  132-TRIPWIRE: 绊线
+  131-TRIPWIRE_HOOK: 绊线钩
+  106-VINE: 藤蔓
+  68-WALL_SIGN: 墙上的告示牌
+  8-WATER: 水
+  326-WATER_BUCKET: 水桶
+  296-WHEAT: 小麦
+  295-SEEDS: 小麦种子
+  235-WHITE_GLAZED_TERRACOTTA: White Glazed Terracotta
+  219-WHITE_SHULKER_BOX: White Shulker Box
+  271-WOOD_AXE: 木斧
+  290-WOOD_HOE: 木锄
+  270-WOOD_PICKAXE: 木搞
+  269-WOOD_SPADE: 木锹
+  268-WOOD_SWORD: 木剑
+  386-BOOK_AND_QUILL: 书与笔
+  387-WRITTEN_BOOK: 书
+  239-YELLOW_GLAZED_TERRACOTTA: Yellow Glazed Terracotta
+  223-YELLOW_SHULKER_BOX: Yellow Shulker Box
+  9-STATIONARY_WATER: 静态水
+  11-STATIONARY_LAVA: 静态岩浆
+  62-BURNING_FURNACE: 燃烧的熔炉
+  115-NETHER_WARTS: 地狱疣
+  71-IRON_DOOR_BLOCK: 铁门
+  74-GLOWING_REDSTONE_ORE: 发光的红石矿石
+  83-SUGAR_CANE_BLOCK: 甘蔗
+  63-SIGN_POST: 站立的告示牌
+  26-BED_BLOCK: 床
+  75-REDSTONE_TORCH_OFF: 红石火把(未开启)
+  92-CAKE_BLOCK: 蛋糕
+  93-DIODE_BLOCK_OFF: 红石中继器(未开启)
+  94-DIODE_BLOCK_ON: 红石中继器(已开启)
+  117-BREWING_STAND: 酿造台
+  149-REDSTONE_COMPARATOR_OFF: 红石比较器(未开启)
+  150-REDSTONE_COMPARATOR_ON: 红石比较器(已开启)
+  64-WOODEN_DOOR: 木门
+  193-SPRUCE_DOOR: 云杉木门
+  194-BIRCH_DOOR: 白桦木门
+  195-JUNGLE_DOOR: 丛林木门
+  196-ACACIA_DOOR: 金合欢木门
+  197-DARK_OAK_DOOR: 深色橡木门
+  59-CROPS: 小麦
+EntityList:
+  -1-PLAYER: 玩家
+  4-ELDER_GUARDIAN: Elder Guardian
+  5-WITHER_SKELETON: Wither Skeleton
+  6-STRAY: Stray
+  23-HUSK: Husk
+  27-ZOMBIE_VILLAGER: Zombie Villager
+  28-SKELETON_HORSE: Skeleton Horse
+  29-ZOMBIE_HORSE: Zombie Horse
+  30-ARMOR_STAND: Armor Stand
+  31-DONKEY: Donkey
+  32-MULE: Mule
+  34-EVOKER: Evoker
+  35-VEX: Vex
+  36-VINDICATOR: Vindicator
+  37-ILLUSIONER: Illusioner
+  50-CREEPER: 苦力怕
+  51-SKELETON: 小白
+  52-SPIDER: 蜘蛛
+  53-GIANT: 巨人僵尸
+  54-ZOMBIE: 僵尸
+  55-SLIME: 史莱姆
+  56-GHAST: 幽魂
+  57-PIG_ZOMBIE: 僵尸猪人
+  58-ENDERMAN: 末影人
+  59-CAVE_SPIDER: 洞穴蜘蛛
+  60-SILVERFISH: 蠹虫
+  61-BLAZE: 烈焰人
+  62-MAGMA_CUBE: 熔浆怪
+  63-ENDER_DRAGON: 末影龙
+  64-WITHER: 凋零
+  65-BAT: 蝙蝠
+  66-WITCH: 女巫
+  67-ENDERMITE: 末影螨
+  68-GUARDIAN: 守护者
+  69-SHULKER: 潜影贝
+  90-PIG: 猪
+  91-SHEEP: 羊
+  92-COW: 牛
+  93-CHICKEN: 鸡
+  94-SQUID: 鱿鱼
+  95-WOLF: 狼
+  96-MUSHROOM_COW: 哞菇
+  97-SNOWMAN: 雪人
+  98-OCELOT: 豹猫
+  99-IRON_GOLEM: 铁傀儡
+  100-HORSE: 马
+  101-RABBIT: 兔子
+  102-POLAR_BEAR: 北极熊
+  103-LLAMA: Llama
+  105-PARROT: Parrot
+  120-VILLAGER: 村民
+EnchantList:
+  PROTECTION_ENVIRONMENTAL: 保护
+  PROTECTION_FIRE: 火焰保护
+  PROTECTION_FALL: 摔落保护
+  PROTECTION_EXPLOSIONS: 爆炸保护
+  PROTECTION_PROJECTILE: Protection projectile
+  OXYGEN: 水下呼吸
+  WATER_WORKER: Water worker
+  MENDING: 经验修补
+  THORNS: 荆棘
+  VANISHING_CURSE: Vanishing curse
+  DEPTH_STRIDER: 深海探索者
+  FROST_WALKER: 冰霜行者
+  BINDING_CURSE: Binding curse
+  DAMAGE_ALL: 锋利
+  DAMAGE_UNDEAD: 亡灵杀手
+  DAMAGE_ARTHROPODS: 节肢杀手
+  KNOCKBACK: 击退
+  FIRE_ASPECT: 火焰附加
+  LOOT_BONUS_MOBS: 抢夺
+  SWEEPING_EDGE: Sweeping edge
+  DIG_SPEED: 水下速掘
+  SILK_TOUCH: 精准采集
+  DURABILITY: 耐久
+  LOOT_BONUS_BLOCKS: 时运
+  ARROW_DAMAGE: 力量
+  ARROW_KNOCKBACK: 冲击
+  ARROW_FIRE: 火矢
+  ARROW_INFINITE: 无限
+  LUCK: 海之眷顾
+  LURE: 饵钓
+ColorList:
+  0-white: '&fWhite'
+  1-orange: '&6Orange'
+  2-magenta: '&dMagenta'
+  3-navy: '&9Navy'
+  4-yellow: '&eYellow'
+  5-lime: '&aLime'
+  6-pink: '&dPink'
+  7-gray: '&8Gray'
+  8-silver: '&7Silver'
+  9-cyan: '&3Cyan'
+  10-purple: '&5Purple'
+  11-blue: '&1Blue'
+  12-brown: '&4Brown'
+  13-green: '&2Green'
+  14-red: '&cRed'
+  15-black: '&0Black'
+PotionNamesList:
+  16-Awkward: Awkard Potion
+  8195-Fire_Resistance_1: Fire Resistance Potion
+  8259-Fire_Resistance_2: Fire Resistance potion 2
+  8204-Harming_1: Harming Potion
+  8236-Harming_2: Harming Potion 2
+  8197-Healing_1: Healing Potion
+  8229-Healing_2: Healing Potion 2
+  8206-Invisibility_1: Invisibility Potion
+  8270-Invisibility_2: Invisibility Potion 2
+  8267-Leaping_1: Leaping Potion
+  8235-Leaping_2: Leaping Potion 2
+  -1-Luck: Luck Potion
+  64-Mundane: Mundane Potion
+  8198-Night_Vision_1: Night Vision Potion
+  8262-Night_Vision_2: Night Vision Potion 2
+  8196-Poison_1: Poison Potion
+  8228-Poison_2: Poison Potion 2
+  8260-Poison_3: Poison Potion 3
+  8292-Poison_4: Poison Potion 4
+  8193-Regeneration_1: Regeneration Potion
+  8225-Regeneration_2: Regeneration Potion 2
+  8257-Regeneration_3: Regeneration Potion 3
+  8289-Regeneration_4: Regeneration Potion 4
+  -1-Slow_Falling_1: Slow Falling Potion
+  -1-Slow_Falling_2: Slow Falling Potion 2
+  8202-Slowness_1: Slowness Potion
+  8266-Slowness_2: Slowness Potion 2
+  8201-Strength_1: Strength Potion
+  8233-Strength_2: Strength Potion 2
+  8265-Strength_3: Strength Potion 3
+  8297-Strength_4: Strength Potion 4
+  8194-Swiftness_1: Swiftness Potion
+  8226-Swiftness_2: Swiftness Potion 2
+  8258-Swiftness_3: Swiftness Potion 3
+  8290-Swiftness_4: Swiftness Potion 4
+  32-Thick: Thick Potion
+  -1-Turtle_Master_1: Turtle Master Potion
+  -1-Turtle_Master_2: Turtle Master Potion 2
+  -1-Turtle_Master_3: Turtle Master Potion 3
+  8205-Water_Breathing_1: Water Breathing Potion
+  8269-Water_Breathing_2: Water Breathing Potion 2
+  8200-Weakness_1: Weakness Potion
+  8264-Weakness_2: Weakness Potion 2
+  0-Water: Water Potion
