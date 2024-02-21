@@ -1,0 +1,21 @@
+lastAccountName: Quzier_bro
+timestamps:
+  login: 1708547431237
+  logout: 1708547052821
+  lastteleport: 1708548540602
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -44.6102563112588
+  y: 75.86281200263123
+  z: 9.169968054629315
+  yaw: -163.30731
+  pitch: -6.645435
+logoutlocation:
+  world: world
+  x: 46.5
+  y: 100.98746754303488
+  z: 264.5
+  yaw: -113.62821
+  pitch: 28.862812
+money: '8950.0'

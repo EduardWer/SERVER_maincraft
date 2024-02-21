@@ -1,379 +1,443 @@
-[16:42:49] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[16:42:49] [Server thread/INFO]: Loading properties
-[16:42:49] [Server thread/INFO]: Default game type: SURVIVAL
-[16:42:49] [Server thread/INFO]: This server is running Paper version git-Paper-1562 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[16:42:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:42:49] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:42:49] [Server thread/INFO]: Debug logging is disabled
-[16:42:49] [Server thread/INFO]: Generating keypair
-[16:42:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:42:49] [Server thread/INFO]: Using default channel type
-[16:42:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:42:49] [Server thread/INFO]: [AnimationLib] Loading AnimationLib v1.6.9
-[16:42:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9-SNAPSHOT;
-[16:42:49] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[16:42:49] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[16:42:49] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[16:42:49] [Server thread/INFO]: [Vault] Loading Vault v1.6.1
-[16:42:49] [Server thread/INFO]: [MoneyMobs] Loading MoneyMobs v3.532
-[16:42:49] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.4.0-SNAPSHOT-b399
-[16:42:49] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;
-[16:42:49] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
-[16:42:49] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
-[16:42:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.15.0.9
-[16:42:50] [Server thread/INFO]: [AnimatedMenuPlus] Loading AnimatedMenuPlus v3.2.6
-[16:42:50] [Server thread/INFO]: [Jobs] Loading Jobs v4.10.3
-[16:42:50] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7
-[16:42:50] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
-[16:42:50] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v2.1
-[16:42:50] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.15.0.9
-[16:42:50] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.1.3
-[16:42:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:42:50] [Server thread/INFO]: [AnimationLib] Enabling AnimationLib v1.6.9
-[16:42:50] [Server thread/INFO]: [Vault] Enabling Vault v1.6.1
-[16:42:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[16:42:50] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[16:42:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[16:42:50] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[16:42:50] [Server thread/INFO]: [Vault] Plugin enabled (45ms)
-[16:42:50] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.4.0-SNAPSHOT-b399
-[16:42:50] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[16:42:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:42:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:42:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:42:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:42:50] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:42:50] [Server thread/INFO]: Preparing level "world"
-[16:42:50] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:42:50] [Server thread/INFO]: View Distance: 10
-[16:42:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:42:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:42:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:42:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:42:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:42:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:42:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:42:50] [Server thread/INFO]: Mob Spawn Range: 4
-[16:42:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:42:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:42:50] [Server thread/INFO]: Random Lighting Updates: false
-[16:42:50] [Server thread/INFO]: Max TNT Explosions: 100
-[16:42:50] [Server thread/INFO]: Structure Info Saving: true
-[16:42:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[16:42:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:42:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:42:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:42:50] [Server thread/INFO]: View Distance: 10
-[16:42:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:42:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:42:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:42:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:42:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:42:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:42:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:42:50] [Server thread/INFO]: Mob Spawn Range: 4
-[16:42:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:42:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:42:50] [Server thread/INFO]: Random Lighting Updates: false
-[16:42:50] [Server thread/INFO]: Max TNT Explosions: 100
-[16:42:50] [Server thread/INFO]: Structure Info Saving: true
-[16:42:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[16:42:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:42:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:42:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:42:50] [Server thread/INFO]: View Distance: 10
-[16:42:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:42:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:42:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:42:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:42:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:42:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:42:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:42:50] [Server thread/INFO]: Mob Spawn Range: 4
-[16:42:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:42:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:42:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:42:50] [Server thread/INFO]: Random Lighting Updates: false
-[16:42:50] [Server thread/INFO]: Max TNT Explosions: 100
-[16:42:50] [Server thread/INFO]: Structure Info Saving: true
-[16:42:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[16:42:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:42:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:42:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3425696731584387563)
-[16:42:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3425696731584387563)
-[16:42:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3425696731584387563)
-[16:42:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9-SNAPSHOT;
-[16:42:51] [Server thread/INFO]: WEPIF: Использование Bukkit Permissions API.
-[16:42:51] [Server thread/INFO]: [WorldEdit] Использую com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 для Bukkit адаптеров
-[16:42:51] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[16:42:51] [Server thread/INFO]: [ClearLag] Using version-adapter: LegacyVersionAdapter
-[16:42:51] [Server thread/INFO]: [ClearLag] Updating config to v3.2.2...
-[16:42:51] [Server thread/INFO]: [ClearLag] Successfully updated config to v3.2.2!
-[16:42:51] [Server thread/INFO]: [ClearLag] Loading modules...
-[16:42:51] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[16:42:51] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[16:42:51] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[16:42:51] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.12]...
-[16:42:51] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:42:51] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:42:51] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:42:51] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
-[16:42:51] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:42:51] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:42:51] [Server thread/INFO]: [MoneyMobs] Enabling MoneyMobs v3.532
-[16:42:52] [Thread-8/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
-[16:42:52] [Thread-7/INFO]: [ClearLag] No updates found!
-[16:42:52] [Server thread/WARN]: java.io.EOFException
-[16:42:52] [Server thread/WARN]: 	at java.io.ObjectInputStream$PeekInputStream.readFully(Unknown Source)
-[16:42:52] [Server thread/WARN]: 	at java.io.ObjectInputStream$BlockDataInputStream.readShort(Unknown Source)
-[16:42:52] [Server thread/WARN]: 	at java.io.ObjectInputStream.readStreamHeader(Unknown Source)
-[16:42:52] [Server thread/WARN]: 	at java.io.ObjectInputStream.<init>(Unknown Source)
-[16:42:52] [Server thread/WARN]: 	at me.venom.moneymobs.utils.PlacedBlocks2.loadBlocks(PlacedBlocks2.java:63)
-[16:42:52] [Server thread/WARN]: 	at me.venom.moneymobs.Main.onEnable(Main.java:70)
-[16:42:52] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
-[16:42:52] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
-[16:42:52] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
-[16:42:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:395)
-[16:42:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:344)
-[16:42:52] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:442)
-[16:42:52] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:403)
-[16:42:52] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:341)
-[16:42:52] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:289)
-[16:42:52] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:616)
-[16:42:52] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[16:42:52] [Server thread/INFO]: [MoneyMobs] Checking for updates...
-[16:42:52] [Server thread/INFO]: &3[&aMoneyMobs&3] &6Failed to check for a update on spigot.
-[16:42:52] [Server thread/INFO]: [MoneyMobs] No updates found.
-[16:42:52] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world) Поджигание TNT РАЗРЕШЕНО.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world) Зажигалки РАЗРЕШЕНЫ.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world) Огонь лавы отключен.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world) Распространение огня НЕОГРАНИЧЕНО.
-[16:42:52] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world'
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_nether) Поджигание TNT РАЗРЕШЕНО.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_nether) Зажигалки РАЗРЕШЕНЫ.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_nether) Огонь лавы отключен.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_nether) Распространение огня НЕОГРАНИЧЕНО.
-[16:42:52] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world_nether'
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Поджигание TNT РАЗРЕШЕНО.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Зажигалки РАЗРЕШЕНЫ.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Огонь лавы отключен.
-[16:42:52] [Server thread/INFO]: [WorldGuard] (world_the_end) Распространение огня НЕОГРАНИЧЕНО.
-[16:42:52] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world_the_end'
-[16:42:52] [Server thread/INFO]: [WorldGuard] Загрузка данных региона...
-[16:42:52] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
-[16:42:52] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
-[16:42:52] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
-[16:42:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.15.0.9
-[16:42:52] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[16:42:52] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[16:42:52] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[16:42:52] [Server thread/INFO]: [Essentials] Starting usermap repair
-[16:42:52] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[16:42:52] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[16:42:52] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[16:42:52] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[16:42:52] [Server thread/INFO]: [Essentials] Using locale ru_RU
-[16:42:52] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
-[16:42:52] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[16:42:52] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[16:42:52] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
-[16:42:52] [Server thread/INFO]: [AnimatedMenuPlus] Enabling AnimatedMenuPlus v3.2.6
-[16:42:53] [Server thread/INFO]: [Jobs] Enabling Jobs v4.10.3
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 8 titles!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (SEAGRASS) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (MUSHROOM_STEM) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (SPRUCE_BUTTON) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (ACACIA_BUTTON) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (BIRCH_BUTTON) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (DARK_OAK_BUTTON) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (JUNGLE_BUTTON) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (REPEATER) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (COMPARATOR) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (WHEAT) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (SUGAR_CANE) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (NETHER_WART) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Your defined (CARVED_PUMPKIN) protected block id/name is not correct!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 42 protected blocks timers!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 452 custom item names!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 51 custom entity names!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 30 custom enchant names!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 16 custom color names!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 44 custom potion names!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 4 shop items!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_oak_log!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_spruce_log!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_birch_log!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_jungle_log!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_acacia_log!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_dark_oak_log!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: tube_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: brain_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: bubble_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: fire_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: horn_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: cut_sandstone!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Miner is using REDSTONE_ORE instead of GLOWING_REDSTONE_ORE.
-[16:42:53] [Server thread/WARN]: [Jobs] Automatically changing block to GLOWING_REDSTONE_ORE. Please update your configuration.
-[16:42:53] [Server thread/WARN]: [Jobs] In vanilla minecraft, REDSTONE_ORE changes to GLOWING_REDSTONE_ORE when interacted with.
-[16:42:53] [Server thread/WARN]: [Jobs] In the future, Jobs using REDSTONE_ORE instead of GLOWING_REDSTONE_ORE may fail to work correctly.
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_oak_wood!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_spruce_wood!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_birch_wood!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_jungle_wood!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_acacia_wood!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_dark_oak_wood!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_tube_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_brain_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_bubble_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_fire_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_horn_coral_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dried_kelp_block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: petrified_oak_slab!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dark_prismarine_stairs!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: prismarine_brick_stairs!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: prismarine_stairs!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: spruce_trapdoor!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: birch_trapdoor!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: jungle_trapdoor!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: acacia_trapdoor!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dark_oak_trapdoor!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: smooth_quartz!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: cut_red_sandstone!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: tube_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: brain_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: bubble_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: fire_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: horn_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: kelp_plant!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: kelp!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: seagrass!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: tall_seagrass!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: sea_pickle!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: WHEAT (wheat-7)! Material must be a block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: SUGAR_CANE (sugar_cane)! Material must be a block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: NETHER_WART (nether_wart)! Material must be a block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_tube_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_brain_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_bubble_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_fire_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_horn_coral_fan!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: WHEAT (wheat)! Material must be a block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: SUGAR_CANE (sugar_cane)! Material must be a block!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Breed type property: Turtle!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Hunter has an invalid Kill type property: PHANTOM!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Hunter has an invalid Kill type property: DROWNED!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: dark_prismarine_stairs!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: prismarine_brick_stairs!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: prismarine_stairs!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: spruce_pressure_plate!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: birch_pressure_plate!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: jungle_pressure_plate!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: acacia_pressure_plate!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: dark_oak_pressure_plate!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Fisherman has an invalid Fish type property: cod!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Weaponsmith has an invalid Craft type property: turtle_helmet!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Brewer has an invalid Brew type property: turtle_helmet!
-[16:42:53] [Server thread/WARN]: [Jobs] Job Brewer has an invalid Brew type property: phantom_membrane!
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded 12 jobs!
-[16:42:53] [Server thread/INFO]: [Jobs] Explorer job manager registered!
-[16:42:53] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Started database save task.
-[16:42:53] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Started buffered payment thread.
-[16:42:53] [Server thread/INFO]: [Jobs] WorldGuard detected.
-[16:42:53] [Server thread/INFO]: [Jobs] Loading explorer data
-[16:42:53] [Server thread/INFO]: [Jobs] Loaded explorer data.
-[16:42:53] [Server thread/INFO]: [Jobs] Plugin has been enabled successfully.
-[16:42:53] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7
-[16:42:53] [Server thread/INFO]: Injecting command info into Citizens.
-[16:42:53] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
-[16:42:53] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
-[16:42:53] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
-[16:42:53] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v2.1
-[16:42:53] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.15.0.9
-[16:42:53] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.1.3
-[16:42:54] [Server thread/INFO]: Done (4,197s)! For help, type "help" or "?"
-[16:42:54] [Server thread/INFO]: Timings Reset
-[16:42:54] [Server thread/INFO]: [AnimatedMenuPlus] Loading menus...
-[16:42:54] [Server thread/INFO]: [AnimatedMenuPlus] 2 menus loaded
-[16:42:54] [Server thread/INFO]: [ChestCommands] Found a new version: v4.0.5 (yours: v3.1.4)
-[16:42:54] [Server thread/INFO]: [ChestCommands] Download it on Bukkit Dev:
-[16:42:54] [Server thread/INFO]: [ChestCommands] dev.bukkit.org/bukkit-plugins/chest-commands
-[16:42:54] [Server thread/INFO]: [Jobs] Successfully linked with Vault.
-[16:42:54] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.4
-[16:42:54] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
-[16:42:54] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
-[16:42:54] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
-[16:42:54] [Craft Scheduler Thread - 1/INFO]: [AnimationLib] A new version is available: 1.7.0
-[16:42:54] [Craft Scheduler Thread - 3/INFO]: [Vault] You are running the latest version
-[16:42:54] [User Authenticator #1/INFO]: UUID of player Eduard_wer is 05efa4e4-1cfd-386e-b1df-b76e6abfa984
-[16:42:54] [Server thread/INFO]: Eduard_wer[/127.0.0.1:50222] logged in with entity id 17 at ([world]14.5, 64.0, -131.5)
-[16:42:55] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
-[16:42:55] [pool-25-thread-1/INFO]: [Essentials] Создаю пустой конфигурационный файл: C:\Users\Eduard\Desktop\сервер\plugins\Essentials\userdata\05efa4e4-1cfd-386e-b1df-b76e6abfa984.yml
-[16:42:55] [Server thread/INFO]: Eduard_wer has made the advancement [Getting an Upgrade]
-[16:43:37] [Server thread/INFO]: Opped Eduard_wer
-[16:43:42] [Server thread/INFO]: Eduard_wer issued server command: /gm 1
-[16:43:53] [Server thread/INFO]: Eduard_wer issued server command: /rtp
-[16:44:55] [Server thread/INFO]: Eduard_wer lost connection: Disconnected
-[16:45:02] [Server thread/INFO]: Stopping the server
-[16:45:02] [Server thread/INFO]: Stopping server
-[16:45:02] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.1.3
-[16:45:02] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.15.0.9
-[16:45:02] [Server thread/INFO]: [AntiRelog] Disabling AntiRelog v2.1
-[16:45:02] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
-[16:45:02] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.7
-[16:45:02] [Server thread/INFO]: [Jobs] Disabling Jobs v4.10.3
-[16:45:02] [Server thread/INFO]: [Jobs] Saved 4 new explorer entries.
-[16:45:02] [Server thread/INFO]: [Jobs] Saving blocks
-[16:45:02] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Database save task shutdown!
-[16:45:02] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Buffered payment thread shutdown.
-[16:45:02] [Server thread/INFO]: [Jobs] Plugin has been disabled successfully.
-[16:45:02] [Server thread/INFO]: [AnimatedMenuPlus] Disabling AnimatedMenuPlus v3.2.6
-[16:45:02] [Server thread/INFO]: [Essentials] Disabling Essentials v2.15.0.9
-[16:45:02] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
-[16:45:02] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
-[16:45:02] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.24-SNAPSHOT (build 1605)
-[16:45:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.2-SNAPSHOT;
-[16:45:02] [Server thread/INFO]: [WorldGuard] Завершение работы исполнителя и ожидание каких-либо незавершенных задач...
-[16:45:02] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.4.0-SNAPSHOT-b399
-[16:45:02] [Server thread/INFO]: [MoneyMobs] Disabling MoneyMobs v3.532
-[16:45:02] [Server thread/INFO]: [Vault] Disabling Vault v1.6.1
-[16:45:02] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:45:02] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
-[16:45:02] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[16:45:02] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[16:45:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9-SNAPSHOT;
-[16:45:02] [Server thread/INFO]: [AnimationLib] Disabling AnimationLib v1.6.9
-[16:45:02] [Server thread/INFO]: Saving players
-[16:45:02] [Server thread/INFO]: Saving worlds
-[16:45:02] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[16:45:03] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[16:45:03] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[23:30:18] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[23:30:18] [Server thread/INFO]: Loading properties
+[23:30:18] [Server thread/INFO]: Default game type: SURVIVAL
+[23:30:18] [Server thread/INFO]: This server is running Paper version git-Paper-1562 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[23:30:19] [Server thread/INFO]: Debug logging is disabled
+[23:30:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:30:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:30:19] [Server thread/INFO]: Generating keypair
+[23:30:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:30:19] [Server thread/INFO]: Using default channel type
+[23:30:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:30:20] [Server thread/INFO]: [AnimationLib] Loading AnimationLib v1.6.9
+[23:30:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9-SNAPSHOT;
+[23:30:20] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[23:30:20] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[23:30:20] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[23:30:20] [Server thread/INFO]: [Vault] Loading Vault v1.6.1
+[23:30:20] [Server thread/INFO]: [MoneyMobs] Loading MoneyMobs v3.532
+[23:30:20] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.4.0-SNAPSHOT-b399
+[23:30:20] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;
+[23:30:20] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.24-SNAPSHOT (build 1605)
+[23:30:20] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[23:30:20] [Server thread/INFO]: [Essentials] Loading Essentials v2.15.0.9
+[23:30:20] [Server thread/INFO]: [AnimatedMenuPlus] Loading AnimatedMenuPlus v3.2.6
+[23:30:20] [Server thread/INFO]: [Jobs] Loading Jobs v4.10.3
+[23:30:20] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.7
+[23:30:20] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[23:30:20] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v2.1
+[23:30:20] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.15.0.9
+[23:30:20] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.1.3
+[23:30:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:30:20] [Server thread/INFO]: [AnimationLib] Enabling AnimationLib v1.6.9
+[23:30:20] [Server thread/INFO]: [Vault] Enabling Vault v1.6.1
+[23:30:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[23:30:20] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[23:30:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:30:20] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[23:30:20] [Server thread/INFO]: [Vault] Plugin enabled (62ms)
+[23:30:20] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.4.0-SNAPSHOT-b399
+[23:30:20] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[23:30:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:30:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:30:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:30:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:30:20] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:30:20] [Server thread/INFO]: Preparing level "world"
+[23:30:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:30:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:20] [Server thread/INFO]: View Distance: 10
+[23:30:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:20] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[23:30:20] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:20] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:20] [Server thread/INFO]: Structure Info Saving: true
+[23:30:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[23:30:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:21] [Server thread/INFO]: View Distance: 10
+[23:30:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[23:30:21] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:21] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:21] [Server thread/INFO]: Structure Info Saving: true
+[23:30:21] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:30:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:21] [Server thread/INFO]: View Distance: 10
+[23:30:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:21] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[23:30:21] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:21] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:21] [Server thread/INFO]: Structure Info Saving: true
+[23:30:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8384073585561361707)
+[23:30:21] [User Authenticator #1/INFO]: UUID of player Quzier_bro is 46fb0f2a-1e43-39bb-9fdc-b020b930f6d6
+[23:30:21] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityBat['Bat'/7, uuid='15a31595-6342-4ede-a645-3ba8d8c85c24', l='world', x=-70,50, y=45,00, z=-33,50, cx=-5, cd=-3, tl=1, v=true, d=false], deleted entity EntityBat['Bat'/8, uuid='15a31595-6342-4ede-a645-3ba8d8c85c24', l='world', x=-72,15, y=46,11, z=-31,83, cx=-5, cd=-2, tl=44, v=false, d=false] because it was near the duplicate and likely an actual duplicate. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:30:21] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityBat['Bat'/7, uuid='15a31595-6342-4ede-a645-3ba8d8c85c24', l='world', x=-70,50, y=45,00, z=-33,50, cx=-5, cd=-3, tl=1, v=true, d=false], deleted entity EntityBat['Bat'/14, uuid='15a31595-6342-4ede-a645-3ba8d8c85c24', l='world', x=-47,81, y=48,38, z=-38,68, cx=-3, cd=-3, tl=229, v=false, d=false] because it was near the duplicate and likely an actual duplicate. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:30:21] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityBat['Bat'/1, uuid='7fea6589-b5fe-46ae-a697-00115cdf9e25', l='world', x=-88,50, y=45,00, z=8,50, cx=-6, cd=0, tl=1, v=true, d=false], regenerated UUID for EntityBat['Bat'/21, uuid='32a90202-5dac-4a72-b8dc-306f7e228aea', l='world', x=-24,31, y=49,59, z=15,89, cx=-2, cd=0, tl=1427, v=false, d=false]. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:30:22] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityBat['Bat'/1, uuid='7fea6589-b5fe-46ae-a697-00115cdf9e25', l='world', x=-88,50, y=45,00, z=8,50, cx=-6, cd=0, tl=1, v=true, d=false], regenerated UUID for EntityBat['Bat'/22, uuid='de952853-ef15-42ce-9564-d47d20eb5a87', l='world', x=0,16, y=45,01, z=16,33, cx=0, cd=1, tl=2252, v=false, d=false]. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:30:22] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityBat['Bat'/1, uuid='7fea6589-b5fe-46ae-a697-00115cdf9e25', l='world', x=-88,50, y=45,00, z=8,50, cx=-6, cd=0, tl=1, v=true, d=false], regenerated UUID for EntityBat['Bat'/23, uuid='be8d6884-e7e6-47e3-8962-7bba369a8fa2', l='world', x=16,15, y=46,03, z=12,77, cx=1, cd=0, tl=2386, v=false, d=false]. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:30:22] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3425696731584387563)
+[23:30:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3425696731584387563)
+[23:30:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9-SNAPSHOT;
+[23:30:22] [Server thread/INFO]: WEPIF: Использование Bukkit Permissions API.
+[23:30:22] [Server thread/INFO]: [WorldEdit] Использую com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 для Bukkit адаптеров
+[23:30:22] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[23:30:22] [Server thread/INFO]: [ClearLag] Using version-adapter: LegacyVersionAdapter
+[23:30:22] [Server thread/INFO]: [ClearLag] Loading modules...
+[23:30:22] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[23:30:22] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[23:30:22] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[23:30:22] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[23:30:22] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.12]...
+[23:30:22] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[23:30:22] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[23:30:22] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
+[23:30:22] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[23:30:22] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[23:30:22] [Server thread/INFO]: [MoneyMobs] Enabling MoneyMobs v3.532
+[23:30:23] [Thread-8/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[23:30:23] [Thread-7/INFO]: [ClearLag] No updates found!
+[23:30:24] [Server thread/INFO]: [MoneyMobs] Checking for updates...
+[23:30:24] [Server thread/INFO]: &3[&aMoneyMobs&3] &6Failed to check for a update on spigot.
+[23:30:24] [Server thread/INFO]: [MoneyMobs] No updates found.
+[23:30:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world) Поджигание TNT РАЗРЕШЕНО.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world) Зажигалки РАЗРЕШЕНЫ.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world) Огонь лавы отключен.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world) Распространение огня НЕОГРАНИЧЕНО.
+[23:30:24] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world'
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_nether) Поджигание TNT РАЗРЕШЕНО.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_nether) Зажигалки РАЗРЕШЕНЫ.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_nether) Огонь лавы отключен.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_nether) Распространение огня НЕОГРАНИЧЕНО.
+[23:30:24] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world_nether'
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Поджигание TNT РАЗРЕШЕНО.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Зажигалки РАЗРЕШЕНЫ.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Огонь лавы отключен.
+[23:30:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Распространение огня НЕОГРАНИЧЕНО.
+[23:30:24] [Server thread/INFO]: [WorldGuard] Загрузка конфигурации для мира 'world_the_end'
+[23:30:24] [Server thread/INFO]: [WorldGuard] Загрузка данных региона...
+[23:30:24] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[23:30:24] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[23:30:24] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[23:30:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.15.0.9
+[23:30:24] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:30:24] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:30:24] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[23:30:24] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[23:30:24] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[23:30:24] [Server thread/INFO]: [Essentials] Using locale ru_RU
+[23:30:24] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[23:30:24] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:30:24] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[23:30:24] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[23:30:24] [Server thread/INFO]: [AnimatedMenuPlus] Enabling AnimatedMenuPlus v3.2.6
+[23:30:25] [Server thread/INFO]: [Jobs] Enabling Jobs v4.10.3
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 8 titles!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (SEAGRASS) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (MUSHROOM_STEM) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (SPRUCE_BUTTON) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (ACACIA_BUTTON) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (BIRCH_BUTTON) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (DARK_OAK_BUTTON) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (JUNGLE_BUTTON) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (REPEATER) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (COMPARATOR) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (WHEAT) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (SUGAR_CANE) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (NETHER_WART) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Your defined (CARVED_PUMPKIN) protected block id/name is not correct!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 42 protected blocks timers!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 452 custom item names!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 51 custom entity names!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 30 custom enchant names!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 16 custom color names!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 44 custom potion names!
+[23:30:25] [Server thread/INFO]: [Jobs] Loaded 4 shop items!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_oak_log!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_spruce_log!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_birch_log!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_jungle_log!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_acacia_log!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Woodcutter has an invalid Break type property: stripped_dark_oak_log!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: tube_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: brain_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: bubble_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: fire_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: horn_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner has an invalid Break type property: cut_sandstone!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Miner is using REDSTONE_ORE instead of GLOWING_REDSTONE_ORE.
+[23:30:25] [Server thread/WARN]: [Jobs] Automatically changing block to GLOWING_REDSTONE_ORE. Please update your configuration.
+[23:30:25] [Server thread/WARN]: [Jobs] In vanilla minecraft, REDSTONE_ORE changes to GLOWING_REDSTONE_ORE when interacted with.
+[23:30:25] [Server thread/WARN]: [Jobs] In the future, Jobs using REDSTONE_ORE instead of GLOWING_REDSTONE_ORE may fail to work correctly.
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_oak_wood!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_spruce_wood!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_birch_wood!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_jungle_wood!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_acacia_wood!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: stripped_dark_oak_wood!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_tube_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_brain_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_bubble_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_fire_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dead_horn_coral_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dried_kelp_block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: petrified_oak_slab!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dark_prismarine_stairs!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: prismarine_brick_stairs!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: prismarine_stairs!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: spruce_trapdoor!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: birch_trapdoor!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: jungle_trapdoor!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: acacia_trapdoor!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: dark_oak_trapdoor!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: smooth_quartz!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Builder has an invalid Place type property: cut_red_sandstone!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: tube_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: brain_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: bubble_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: fire_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: horn_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: kelp_plant!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: kelp!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: seagrass!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: tall_seagrass!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: sea_pickle!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: WHEAT (wheat-7)! Material must be a block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: SUGAR_CANE (sugar_cane)! Material must be a block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Break type property: NETHER_WART (nether_wart)! Material must be a block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_tube_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_brain_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_bubble_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_fire_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: dead_horn_coral_fan!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: WHEAT (wheat)! Material must be a block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Place type property: SUGAR_CANE (sugar_cane)! Material must be a block!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Farmer has an invalid Breed type property: Turtle!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Hunter has an invalid Kill type property: PHANTOM!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Hunter has an invalid Kill type property: DROWNED!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: dark_prismarine_stairs!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: prismarine_brick_stairs!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: prismarine_stairs!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: spruce_pressure_plate!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: birch_pressure_plate!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: jungle_pressure_plate!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: acacia_pressure_plate!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Crafter has an invalid Craft type property: dark_oak_pressure_plate!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Fisherman has an invalid Fish type property: cod!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Weaponsmith has an invalid Craft type property: turtle_helmet!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Brewer has an invalid Brew type property: turtle_helmet!
+[23:30:25] [Server thread/WARN]: [Jobs] Job Brewer has an invalid Brew type property: phantom_membrane!
+[23:30:26] [Server thread/INFO]: [Jobs] Loaded 12 jobs!
+[23:30:26] [Server thread/INFO]: [Jobs] Explorer job manager registered!
+[23:30:26] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Started database save task.
+[23:30:26] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Started buffered payment thread.
+[23:30:26] [Server thread/INFO]: [Jobs] Preloaded 2 players data in 0.0
+[23:30:26] [Server thread/INFO]: [Jobs] WorldGuard detected.
+[23:30:26] [Server thread/INFO]: [Jobs] Loading explorer data
+[23:30:26] [Server thread/INFO]: [Jobs] Loaded explorer data (4)
+[23:30:26] [Server thread/INFO]: [Jobs] Plugin has been enabled successfully.
+[23:30:26] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.7
+[23:30:26] [Server thread/INFO]: Injecting command info into Citizens.
+[23:30:26] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[23:30:26] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[23:30:26] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[23:30:26] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v2.1
+[23:30:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.15.0.9
+[23:30:26] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.1.3
+[23:30:26] [Server thread/INFO]: Done (6,145s)! For help, type "help" or "?"
+[23:30:26] [Server thread/INFO]: Timings Reset
+[23:30:26] [Server thread/INFO]: [ChestCommands] Found a new version: v4.0.5 (yours: v3.1.4)
+[23:30:26] [Server thread/INFO]: [ChestCommands] Download it on Bukkit Dev:
+[23:30:26] [Server thread/INFO]: [ChestCommands] dev.bukkit.org/bukkit-plugins/chest-commands
+[23:30:26] [Server thread/INFO]: [AnimatedMenuPlus] Loading menus...
+[23:30:26] [Server thread/INFO]: [AnimatedMenuPlus] 2 menus loaded
+[23:30:26] [Server thread/INFO]: [Jobs] Successfully linked with Vault.
+[23:30:26] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.4
+[23:30:26] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[23:30:26] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[23:30:26] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[23:30:26] [Craft Scheduler Thread - 3/INFO]: [AnimationLib] A new version is available: 1.7.0
+[23:30:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b807052[id=46fb0f2a-1e43-39bb-9fdc-b020b930f6d6,name=Quzier_bro,properties={},legacy=false] (/127.0.0.1:55154) lost connection: Disconnected
+[23:30:27] [Craft Scheduler Thread - 2/INFO]: [Vault] You are running the latest version
+[23:30:30] [User Authenticator #1/INFO]: UUID of player Quzier_bro is 46fb0f2a-1e43-39bb-9fdc-b020b930f6d6
+[23:30:31] [Server thread/INFO]: Quzier_bro[/127.0.0.1:55195] logged in with entity id 34 at ([world]-47.5, 69.0, 37.5)
+[23:30:31] [Craft Scheduler Thread - 0/INFO]: Failed to check for Jobs update on spigot web page.
+[23:30:31] [Server thread/INFO]: Quzier_bro has made the advancement [Getting an Upgrade]
+[23:30:32] [User Authenticator #1/INFO]: UUID of player Eduard_wer is 05efa4e4-1cfd-386e-b1df-b76e6abfa984
+[23:30:32] [Server thread/INFO]: Eduard_wer[/26.58.8.212:52165] logged in with entity id 59 at ([world]-54.5, 69.0, 37.5)
+[23:30:32] [Craft Scheduler Thread - 3/INFO]: Failed to check for Jobs update on spigot web page.
+[23:30:33] [Server thread/INFO]: Eduard_wer has made the advancement [Getting an Upgrade]
+[23:30:38] [Server thread/INFO]: Eduard_wer issued server command: /gm 1
+[23:30:39] [Server thread/INFO]: Quzier_bro issued server command: /clear
+[23:30:44] [Server thread/INFO]: Quzier_bro issued server command: /gm 1
+[23:30:59] [Server thread/INFO]: Eduard_wer issued server command: //wand
+[23:31:09] [Server thread/INFO]: Quzier_bro issued server command: /speed 3
+[23:31:23] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityChicken['Chicken'/202, uuid='a6bcf735-5b06-4ce3-80ed-03953ad340b5', l='world', x=113,70, y=92,00, z=223,98, cx=7, cd=13, tl=271281, v=true, d=false], deleted entity EntityChicken['Chicken'/251, uuid='a6bcf735-5b06-4ce3-80ed-03953ad340b5', l='world', x=112,73, y=93,00, z=224,12, cx=7, cd=14, tl=269775, v=false, d=false] because it was near the duplicate and likely an actual duplicate. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:31:43] [Server thread/INFO]: Quzier_bro issued server command: /speed 0.5
+[23:31:46] [Server thread/INFO]: Eduard_wer issued server command: /speed 1000
+[23:31:54] [Server thread/INFO]: Quzier_bro issued server command: /speed 0
+[23:32:04] [Server thread/INFO]: Quzier_bro issued server command: /speed 0.1
+[23:32:33] [Server thread/INFO]: Quzier_bro issued server command: /jump 3
+[23:32:41] [Server thread/INFO]: Eduard_wer issued server command: /speed 3
+[23:33:00] [Server thread/INFO]: Quzier_bro issued server command: /clear
+[23:33:06] [Server thread/INFO]: Quzier_bro issued server command: /speed 2
+[23:33:16] [Server thread/INFO]: Quzier_bro issued server command: //wand
+[23:33:28] [Server thread/INFO]: Eduard_wer issued server command: /speed 1
+[23:33:29] [Server thread/INFO]: Quzier_bro issued server command: //set 0
+[23:33:34] [Server thread/INFO]: Eduard_wer has made the advancement [The End?]
+[23:33:35] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:33:35] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[23:33:43] [Server thread/INFO]: Eduard_wer issued server command: /spawn
+[23:33:49] [Server thread/INFO]: Quzier_bro issued server command: /clear
+[23:33:58] [Server thread/INFO]: Quzier_bro issued server command: /difficulty peaceful
+[23:33:58] [Server thread/INFO]: [Quzier_bro: Set game difficulty to Peaceful]
+[23:34:15] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntityVillager['Villager'/3764, uuid='b868baa2-4417-42f6-9f21-331a8d14fa4f', l='world', x=-231,30, y=69,00, z=206,30, cx=-15, cd=12, tl=308029, v=true, d=false], deleted entity EntityVillager['Villager'/3765, uuid='b868baa2-4417-42f6-9f21-331a8d14fa4f', l='world', x=-235,06, y=69,00, z=208,08, cx=-15, cd=13, tl=306042, v=false, d=false] because it was near the duplicate and likely an actual duplicate. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:34:42] [Server thread/INFO]: Quzier_bro issued server command: /tp Eduard_wer Quzier_bro
+[23:35:02] [Server thread/INFO]: Quzier_bro issued server command: /speed 10
+[23:35:39] [Server thread/INFO]: Quzier_bro issued server command: /speed 50
+[23:35:40] [Server thread/INFO]: Eduard_wer issued server command: /speed 100
+[23:36:00] [Server thread/INFO]: Quzier_bro issued server command: /speed 15
+[23:36:16] [Server thread/INFO]: Quzier_bro issued server command: /jump 10
+[23:36:27] [Server thread/INFO]: Quzier_bro issued server command: /jumpo 10
+[23:36:33] [Server thread/INFO]: Quzier_bro issued server command: /speed 1
+[23:36:36] [Server thread/INFO]: Eduard_wer issued server command: /speed 1
+[23:36:39] [Server thread/INFO]: Quzier_bro issued server command: /tp Eduard_wer
+[23:37:36] [Server thread/INFO]: Quzier_bro issued server command: //wand
+[23:37:43] [Server thread/INFO]: Eduard_wer issued server command: //set 98
+[23:37:46] [Server thread/INFO]: Quzier_bro issued server command: //set 99
+[23:37:50] [Server thread/INFO]: Quzier_bro issued server command: //set 98
+[23:39:24] [Server thread/INFO]: Eduard_wer has made the advancement [Bring Home the Beacon]
+[23:39:34] [Server thread/INFO]: Quzier_bro issued server command: /spawn
+[23:40:01] [Server thread/INFO]: [Server] Did you know that...
+[23:40:01] [Server thread/INFO]: [Server] you can run multiple commands?
+[23:40:22] [Server thread/INFO]: Quzier_bro issued server command: //set 0
+[23:41:16] [Server thread/INFO]: Quzier_bro issued server command: //undo
+[23:41:39] [Server thread/INFO]: Quzier_bro issued server command: //set 0
+[23:42:30] [Server thread/INFO]: Eduard_wer issued server command: //wand
+[23:42:52] [Server thread/INFO]: Eduard_wer issued server command: //wand 95
+[23:42:58] [Server thread/INFO]: Eduard_wer issued server command: //set 95
+[23:43:08] [Server thread/INFO]: Eduard_wer issued server command: //set 95/8
+[23:43:17] [Server thread/INFO]: Eduard_wer issued server command: //set 95
+[23:43:24] [Server thread/INFO]: Eduard_wer issued server command: /set 0
+[23:43:31] [Server thread/INFO]: Eduard_wer issued server command: //set 0
+[23:43:34] [Server thread/INFO]: Quzier_bro issued server command: //set 96
+[23:43:39] [Server thread/INFO]: Quzier_bro issued server command: //set 94
+[23:43:46] [Server thread/INFO]: Quzier_bro issued server command: //set 95
+[23:43:54] [Server thread/INFO]: Eduard_wer issued server command: //set 0
+[23:44:03] [Server thread/INFO]: Quzier_bro issued server command: //set 95/8
+[23:45:54] [Server thread/WARN]: [DUPE-UUID] Duplicate UUID found used by EntitySheep['Sheep'/125542, uuid='c9d36e2b-341c-4328-9a91-0bad8cd97d21', l='world', x=-265,49, y=70,00, z=170,90, cx=-17, cd=10, tl=278407, v=true, d=false], deleted entity EntitySheep['Sheep'/125545, uuid='c9d36e2b-341c-4328-9a91-0bad8cd97d21', l='world', x=-266,16, y=70,00, z=177,47, cx=-17, cd=11, tl=281838, v=false, d=false] because it was near the duplicate and likely an actual duplicate. See https://github.com/PaperMC/Paper/issues/1223 for discussion on what this is about.
+[23:46:27] [Server thread/INFO]: Quzier_bro issued server command: /tp Eduard_wer
+[23:48:49] [Server thread/INFO]: Quzier_bro has made the advancement [We Need to Go Deeper]
+[23:48:58] [Server thread/INFO]: Eduard_wer issued server command: /npc create
+[23:49:00] [Server thread/INFO]: Quzier_bro issued server command: /tp Eduard_wer
+[23:49:09] [Server thread/INFO]: Eduard_wer issued server command: /npc create Давидыч
+[23:49:38] [Server thread/INFO]: Eduard_wer issued server command: /npc create Давидыч Младший
+[23:50:16] [Server thread/INFO]: Eduard_wer issued server command: /npc remuve 1
+[23:50:23] [Server thread/INFO]: Eduard_wer issued server command: /npc remuve
+[23:50:32] [Server thread/INFO]: Eduard_wer issued server command: /npc remove 1
+[23:51:05] [Server thread/INFO]: Eduard_wer issued server command: /npc remove 0
+[23:52:22] [Server thread/INFO]: Eduard_wer issued server command: /save
+[23:52:22] [Server thread/INFO]: Quzier_bro issued server command: /save
+[23:52:27] [Server thread/INFO]: Quzier_bro issued server command: //save
+[23:52:47] [Server thread/INFO]: Quzier_bro issued server command: //schematic save
+[23:52:59] [Server thread/INFO]: Quzier_bro issued server command: //schematic save
+[23:53:03] [Server thread/INFO]: Quzier_bro issued server command: /stop
+[23:53:03] [Server thread/INFO]: [Quzier_bro: Stopping the server]
+[23:53:03] [Server thread/INFO]: Stopping server
+[23:53:03] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.1.3
+[23:53:03] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.15.0.9
+[23:53:03] [Server thread/INFO]: [AntiRelog] Disabling AntiRelog v2.1
+[23:53:03] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[23:53:03] [Server thread/INFO]: [CommandNPC] Disabling CommandNPC v1.7
+[23:53:03] [Server thread/INFO]: [Jobs] Disabling Jobs v4.10.3
+[23:53:03] [Server thread/INFO]: [Jobs] Saved 43 new explorer entries.
+[23:53:03] [Server thread/INFO]: [Jobs] Saving blocks
+[23:53:03] [Server thread/INFO]: [Jobs] Deleted 21 old block protection entries.
+[23:53:03] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Database save task shutdown!
+[23:53:03] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Buffered payment thread shutdown.
+[23:53:03] [Server thread/INFO]: [Jobs] Plugin has been disabled successfully.
+[23:53:03] [Server thread/INFO]: [AnimatedMenuPlus] Disabling AnimatedMenuPlus v3.2.6
+[23:53:03] [Server thread/INFO]: [Essentials] Disabling Essentials v2.15.0.9
+[23:53:03] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[23:53:03] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
+[23:53:03] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.24-SNAPSHOT (build 1605)
+[23:53:03] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.2-SNAPSHOT;
+[23:53:03] [Server thread/INFO]: [WorldGuard] Завершение работы исполнителя и ожидание каких-либо незавершенных задач...
+[23:53:03] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.4.0-SNAPSHOT-b399
+[23:53:03] [Server thread/INFO]: [MoneyMobs] Disabling MoneyMobs v3.532
+[23:53:03] [Server thread/INFO]: [Vault] Disabling Vault v1.6.1
+[23:53:03] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[23:53:03] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
+[23:53:03] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[23:53:03] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[23:53:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9-SNAPSHOT;
+[23:53:03] [Server thread/INFO]: [AnimationLib] Disabling AnimationLib v1.6.9
+[23:53:03] [Server thread/INFO]: Saving players
+[23:53:03] [Server thread/INFO]: Eduard_wer lost connection: Server closed
+[23:53:03] [Server thread/INFO]: Eduard_wer left the game
+[23:53:03] [Server thread/INFO]: Quzier_bro lost connection: Server closed
+[23:53:03] [Server thread/INFO]: Quzier_bro left the game
+[23:53:03] [Server thread/INFO]: Saving worlds
+[23:53:03] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:53:03] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[23:53:03] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
